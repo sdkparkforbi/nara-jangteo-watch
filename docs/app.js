@@ -2,7 +2,7 @@
   const DATA_URL = "./data/index.json";
 
   const state = {
-    tab: "soon",
+    tab: "closing_soon",
     query: "",
     selectedKeyword: "__all__",
     data: null,
