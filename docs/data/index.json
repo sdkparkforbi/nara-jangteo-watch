@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:39:11+09:00",
+  "generated_at": "2026-04-24T17:39:57+09:00",
   "config": {
     "keywords": [
       "AI",
@@ -22,10 +22,10 @@
     "keep_days": 60
   },
   "stats": {
-    "open": 115,
+    "open": 117,
     "closing_soon": 68,
     "closed": 23,
-    "total": 206
+    "total": 208
   },
   "closing_soon": [
     {
@@ -2373,6 +2373,38 @@
       "_hours_remaining": 280.3
     },
     {
+      "bidNtceNo": "R26BK01488643",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "바이오 빅데이터 플랫폼 ISMS-P 인증 컨설팅",
+      "ntceInsttNm": "한국과학기술정보연구원",
+      "ntceInsttCd": "Z004831",
+      "dminsttNm": "한국과학기술정보연구원",
+      "dminsttCd": "Z004831",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-04-24 17:35:14",
+      "bidBeginDt": "2026-04-30 10:00:00",
+      "bidClseDt": "2026-05-06 10:00:00",
+      "opengDt": "2026-05-06 11:00:00",
+      "asignBdgtAmt": "140000000",
+      "presmptPrce": "127272727",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01488643&bidPbancOrd=000",
+      "ntceInsttOfclNm": "라하나",
+      "ntceInsttOfclTelNo": "042-869-0787",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
+      "first_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-24",
+      "matched_keywords": [
+        "빅데이터"
+      ],
+      "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
+      "_hours_remaining": 280.3
+    },
+    {
       "bidNtceNo": "R26BK01480575",
       "bidNtceOrd": "000",
       "bidNtceNm": "2026년 AI·데이터 법제연구사업 행사 대행",
@@ -2400,6 +2432,38 @@
       "last_seen_date": "2026-04-24",
       "matched_keywords": [
         "AI"
+      ],
+      "_bidClseDt_iso": "2026-05-06T11:00:00+09:00",
+      "_hours_remaining": 281.3
+    },
+    {
+      "bidNtceNo": "R26BK01488590",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "고흥 스마트팜 혁신밸리 빅데이터센터 유지보수 용역(재공고)",
+      "ntceInsttNm": "국립순천대학교 산학협력단",
+      "ntceInsttCd": "Z010490",
+      "dminsttNm": "국립순천대학교 산학협력단",
+      "dminsttCd": "Z010490",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "재공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-04-24 17:39:22",
+      "bidBeginDt": "2026-04-24 17:45:00",
+      "bidClseDt": "2026-05-06 11:00:00",
+      "opengDt": "2026-05-13 17:00:00",
+      "asignBdgtAmt": "80000000",
+      "presmptPrce": "72727273",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01488590&bidPbancOrd=000",
+      "ntceInsttOfclNm": "김선우",
+      "ntceInsttOfclTelNo": "061-750-6113",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
+      "first_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-24",
+      "matched_keywords": [
+        "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-06T11:00:00+09:00",
       "_hours_remaining": 281.3
