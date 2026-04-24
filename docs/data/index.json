@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:41:30+09:00",
+  "generated_at": "2026-04-24T17:42:11+09:00",
   "config": {
     "keywords": [
       "AI",
@@ -23,9 +23,9 @@
   },
   "stats": {
     "open": 147,
-    "closing_soon": 38,
+    "closing_soon": 39,
     "closed": 23,
-    "total": 208
+    "total": 209
   },
   "closing_soon": [
     {
@@ -1211,6 +1211,38 @@
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
       "_hours_remaining": 136.3
+    },
+    {
+      "bidNtceNo": "R26BK01488672",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "통영시 인구감소지역 대응 기본계획 및 지방소멸대응기금 투자계획 수립 용역",
+      "ntceInsttNm": "경상남도 통영시",
+      "ntceInsttCd": "5330000",
+      "dminsttNm": "경상남도 통영시",
+      "dminsttCd": "5330000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-04-24 17:41:03",
+      "bidBeginDt": "2026-04-28 10:00:00",
+      "bidClseDt": "2026-04-30 11:00:00",
+      "opengDt": "2026-04-30 14:00:00",
+      "asignBdgtAmt": "40000000",
+      "presmptPrce": "36363636",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01488672&bidPbancOrd=000",
+      "ntceInsttOfclNm": "신영주",
+      "ntceInsttOfclTelNo": "055-650-4424",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "first_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-24",
+      "matched_keywords": [
+        "투자"
+      ],
+      "_bidClseDt_iso": "2026-04-30T11:00:00+09:00",
+      "_hours_remaining": 137.3
     },
     {
       "bidNtceNo": "R26BK01481249",
