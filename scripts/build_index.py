@@ -76,7 +76,15 @@ def iter_daily_files(keep_days: int) -> list[Path]:
     return kept
 
 
-def merge_all(files: list[Path]) -> list[dict]:
+def match_keywords(title: str, keywords: list[str], case_sensitive: bool) -> list[str]:
+    """제목에 매치되는 모든 키워드를 원본 순서대로 반환."""
+    if not title or not keywords:
+        return []
+    haystack = title if case_sensitive else title.lower()
+    return [kw for kw in keywords if (kw if case_sensitive else kw.lower()) in haystack]
+
+
+def merge_all(files: list[Path], keywords: list[str], case_sensitive: bool) -> list[dict]:
     merged: dict[str, dict] = {}
     for path in files:
         try:
@@ -93,6 +101,9 @@ def merge_all(files: list[Path]) -> list[dict]:
                 existing_seen if existing_seen < collected_at else collected_at
             )
             merged_item["last_seen_date"] = collected_at
+            merged_item["matched_keywords"] = match_keywords(
+                str(item.get("bidNtceNm") or ""), keywords, case_sensitive,
+            )
             merged[key] = merged_item
     return list(merged.values())
 
@@ -138,10 +149,12 @@ def classify(items: list[dict]) -> tuple[list[dict], list[dict], list[dict]]:
 def main() -> int:
     cfg = load_config()
     keep_days = int(cfg.get("keep_days", 60))
+    keywords = [k.strip() for k in cfg.get("keywords", []) if k and k.strip()]
+    case_sensitive = bool(cfg.get("case_sensitive", False))
     files = iter_daily_files(keep_days)
     print(f"사용할 일별 파일: {len(files)}개")
 
-    merged = merge_all(files)
+    merged = merge_all(files, keywords, case_sensitive)
     print(f"고유 공고 총합: {len(merged)}건")
 
     open_list, soon_list, closed_list = classify(merged)

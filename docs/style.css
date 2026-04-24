@@ -144,6 +144,56 @@ main { padding: 28px 0 48px; }
   border-color: var(--accent);
 }
 
+.kw-filter {
+  margin-bottom: 14px;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+.kw-filter-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.kw-chip {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 4px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: inherit;
+  white-space: nowrap;
+  transition: all 0.12s;
+}
+.kw-chip:hover { color: var(--text); border-color: var(--accent); }
+.kw-chip.active {
+  background: var(--accent-dim);
+  border-color: var(--accent-dim);
+  color: white;
+}
+.kw-chip .count {
+  opacity: 0.7;
+  margin-left: 4px;
+  font-size: 11px;
+}
+
+.matched-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+.matched-keywords .kw {
+  font-size: 11px;
+  padding: 2px 7px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--accent);
+}
+
 .list { display: flex; flex-direction: column; gap: 10px; }
 
 .card {

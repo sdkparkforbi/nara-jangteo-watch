@@ -4,6 +4,7 @@
   const state = {
     tab: "soon",
     query: "",
+    selectedKeyword: "__all__",
     data: null,
   };
 
@@ -62,10 +63,15 @@
     const budget = fmtKrw(item.asignBdgtAmt) || fmtKrw(item.presmptPrce);
     const method = [item.bidMethdNm, item.cntrctCnclsMthdNm].filter(Boolean).join(" / ");
     const kind = item.ntceKindNm && item.ntceKindNm !== "일반" ? item.ntceKindNm : "";
+    const matched = Array.isArray(item.matched_keywords) ? item.matched_keywords : [];
 
     let cardCls = "card";
     if (remaining.cls === "danger" || remaining.cls === "warn") cardCls += " soon";
     if (remaining.cls === "expired" && hours !== null && hours < 0) cardCls += " overdue";
+
+    const matchedHtml = matched.length
+      ? `<div class="matched-keywords">${matched.map(k => `<span class="kw">${escapeHtml(k)}</span>`).join("")}</div>`
+      : "";
 
     return `
       <article class="${cardCls}">
@@ -77,6 +83,7 @@
           ${method ? `<span><strong>입찰방식</strong> ${escapeHtml(method)}</span>` : ""}
           <span><strong>공고번호</strong> ${escapeHtml(item.bidNtceNo || "")}${item.bidNtceOrd ? "-" + escapeHtml(item.bidNtceOrd) : ""}</span>
         </div>
+        ${matchedHtml}
         <div class="card-bottom">
           <span class="remaining ${remaining.cls}">${remaining.text}</span>
           <span class="budget">
@@ -106,23 +113,59 @@
 
     const bucket = state.data[state.tab] || [];
     const q = state.query.trim().toLowerCase();
-    const filtered = q
-      ? bucket.filter((it) => {
-          const hay = [it.bidNtceNm, it.ntceInsttNm, it.dminsttNm, it.bsnsDivNm]
-            .filter(Boolean).join(" ").toLowerCase();
-          return hay.includes(q);
-        })
-      : bucket;
+    const kw = state.selectedKeyword;
+
+    const filtered = bucket.filter((it) => {
+      if (kw && kw !== "__all__") {
+        const matched = Array.isArray(it.matched_keywords) ? it.matched_keywords : [];
+        if (!matched.includes(kw)) return false;
+      }
+      if (q) {
+        const hay = [it.bidNtceNm, it.ntceInsttNm, it.dminsttNm, it.bsnsDivNm]
+          .filter(Boolean).join(" ").toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
 
     if (filtered.length === 0) {
-      const msg = q
-        ? `"${escapeHtml(state.query)}" 에 매치되는 공고가 없습니다.`
+      const parts = [];
+      if (kw && kw !== "__all__") parts.push(`키워드 "${escapeHtml(kw)}"`);
+      if (q) parts.push(`"${escapeHtml(state.query)}"`);
+      const msg = parts.length
+        ? `${parts.join(" + ")} 에 매치되는 공고가 없습니다.`
         : "해당하는 공고가 없습니다.";
       listEl.innerHTML = `<p class="empty">${msg}</p>`;
       return;
     }
 
     listEl.innerHTML = filtered.map(cardHtml).join("");
+  }
+
+  function buildKeywordFilter() {
+    const container = $("#kw-filter");
+    if (!state.data || !container) return;
+
+    // 모든 버킷에서 키워드 카운트 집계 (현재 탭 기준)
+    const bucket = state.data[state.tab] || [];
+    const counts = new Map();
+    for (const it of bucket) {
+      const kws = Array.isArray(it.matched_keywords) ? it.matched_keywords : [];
+      for (const k of kws) counts.set(k, (counts.get(k) || 0) + 1);
+    }
+
+    // 설정된 키워드 순서 유지 + 실제 매치된 것만 표시
+    const configKws = state.data.config?.keywords || [];
+    const ordered = configKws.filter((k) => counts.has(k));
+    // 설정에 없지만 데이터에 있는 키워드도 뒤에 추가 (예: 설정 변경 직후)
+    for (const [k] of counts) if (!ordered.includes(k)) ordered.push(k);
+
+    const chips = [`<button class="kw-chip ${state.selectedKeyword === "__all__" ? "active" : ""}" data-kw="__all__">전체 <span class="count">${bucket.length}</span></button>`];
+    for (const k of ordered) {
+      const active = state.selectedKeyword === k ? "active" : "";
+      chips.push(`<button class="kw-chip ${active}" data-kw="${escapeHtml(k)}">${escapeHtml(k)} <span class="count">${counts.get(k)}</span></button>`);
+    }
+    container.innerHTML = chips.join("");
   }
 
   function updateMeta() {
@@ -144,11 +187,22 @@
         document.querySelectorAll(".tab").forEach((b) => b.classList.remove("active"));
         btn.classList.add("active");
         state.tab = btn.dataset.tab;
+        // 탭 바꾸면 해당 버킷에 있는 키워드 기준으로 칩을 다시 그림
+        buildKeywordFilter();
         render();
       });
     });
     $("#search").addEventListener("input", (e) => {
       state.query = e.target.value;
+      render();
+    });
+    // 키워드 칩 클릭은 이벤트 위임으로 처리 (칩이 동적으로 재생성되므로)
+    $("#kw-filter").addEventListener("click", (e) => {
+      const chip = e.target.closest(".kw-chip");
+      if (!chip) return;
+      state.selectedKeyword = chip.dataset.kw;
+      document.querySelectorAll("#kw-filter .kw-chip").forEach((c) => c.classList.remove("active"));
+      chip.classList.add("active");
       render();
     });
   }
@@ -159,6 +213,7 @@
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       state.data = await r.json();
       updateMeta();
+      buildKeywordFilter();
       render();
     } catch (e) {
       $("#list").innerHTML = `<p class="empty">데이터를 불러오지 못했습니다: ${escapeHtml(String(e))}<br>워크플로우가 한 번 이상 실행되어야 <code>docs/data/index.json</code>이 생성됩니다.</p>`;
