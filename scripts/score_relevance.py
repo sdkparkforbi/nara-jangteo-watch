@@ -157,8 +157,7 @@ def score_with_openai(model: str, system: str, user: str) -> dict | None:
             {"role": "user", "content": user},
         ],
         response_format={"type": "json_object"},
-        max_tokens=200,
-        temperature=0,
+        max_completion_tokens=2000,
     )
     return parse_json_loose(resp.choices[0].message.content or "")
 

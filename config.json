@@ -24,7 +24,7 @@
   "relevance_filter": {
     "enabled": true,
     "provider": "openai",
-    "model": "gpt-4o-mini",
+    "model": "gpt-5-mini",
     "min_score": 3,
     "rate_limit_delay_seconds": 0.2,
     "context": "AI/생성형 AI/LLM, 디지털 헬스케어, 의료·임상 데이터 분석, 의약품·바이오 연구개발, 디지털 치료기기(DTx), AI 인재양성/교원연수/AI 리터러시 교육, 정부 지원사업(RISE, AX 대학원, AI 중심대학, IITP) 관련 컨설팅·연구·시스템 구축, 한국 주식·금융 데이터 분석/예측 시스템. 다음은 무관: 건물 리모델링·건축공사·청소·방역·시설관리·임대·인쇄·차량 등 본업이 토목·건축·시설인 공고."
