@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T20:47:30+09:00",
+  "generated_at": "2026-04-25T21:45:33+09:00",
   "config": {
     "keywords": [
       "AI",
@@ -70,7 +70,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 실증 현장 설계·설치·운영 지원으로 AI 시스템 구축에 직접 관련",
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 37.2
+      "_hours_remaining": 36.2
     },
     {
       "bidNtceNo": "R26BK01477790",
@@ -104,7 +104,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 데이터 수집·데이터셋 구축으로 AI 솔루션 실증에 직접 관련",
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 37.2
+      "_hours_remaining": 36.2
     },
     {
       "bidNtceNo": "R26BK01484911",
@@ -138,7 +138,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 플랫폼·실증 모델 구축으로 AI 시스템 구축 및 연구와 매우 관련",
       "_bidClseDt_iso": "2026-04-27T11:00:00+09:00",
-      "_hours_remaining": 38.2
+      "_hours_remaining": 37.2
     },
     {
       "bidNtceNo": "R26BK01488202",
@@ -172,7 +172,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "로봇 AI 시뮬레이터 구축은 AI 시스템 구축과 부분 연관",
       "_bidClseDt_iso": "2026-04-27T12:00:00+09:00",
-      "_hours_remaining": 39.2
+      "_hours_remaining": 38.2
     },
     {
       "bidNtceNo": "R26BK01487848",
@@ -206,7 +206,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 연구·시스템 구축 관련이나 의료·금융 분야와는 거리",
       "_bidClseDt_iso": "2026-04-27T15:00:00+09:00",
-      "_hours_remaining": 42.2
+      "_hours_remaining": 41.2
     },
     {
       "bidNtceNo": "R26BK01474005",
@@ -240,7 +240,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 기반 시스템 구축 공공용역으로 AI 구축·공공사업 경험과 관련",
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 61.2
+      "_hours_remaining": 60.2
     },
     {
       "bidNtceNo": "R26BK01476681",
@@ -274,7 +274,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "데이터 기반 시뮬레이션·예측 개발은 AI/데이터 시스템 구축과 연관",
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 61.2
+      "_hours_remaining": 60.2
     },
     {
       "bidNtceNo": "R26BK01471819",
@@ -308,7 +308,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "정부 지원사업 운영·기업발굴·투자역량 강화 관련, 컨설팅 가능",
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 61.2
+      "_hours_remaining": 60.2
     },
     {
       "bidNtceNo": "R26BK01483073",
@@ -342,7 +342,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 방법론 개발 포함하나 분야는 해양유물 연구",
       "_bidClseDt_iso": "2026-04-28T11:00:00+09:00",
-      "_hours_remaining": 62.2
+      "_hours_remaining": 61.2
     },
     {
       "bidNtceNo": "R26BK01479102",
@@ -376,7 +376,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 교육·캠프 운영으로 AI 인재양성·리터러시 교육과 직접 관련",
       "_bidClseDt_iso": "2026-04-28T14:00:00+09:00",
-      "_hours_remaining": 65.2
+      "_hours_remaining": 64.2
     },
     {
       "bidNtceNo": "R26BK01477852",
@@ -410,7 +410,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "RISE 의학 AI 교육 플랫폼 개발로 AI 인재양성·시스템 구축 관련",
       "_bidClseDt_iso": "2026-04-29T15:00:00+09:00",
-      "_hours_remaining": 90.2
+      "_hours_remaining": 89.2
     },
     {
       "bidNtceNo": "R26BK01470946",
@@ -444,7 +444,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "영상데이터 AI 모델 고도화 연구로 AI 연구·컨설팅에 적합",
       "_bidClseDt_iso": "2026-04-29T16:00:00+09:00",
-      "_hours_remaining": 91.2
+      "_hours_remaining": 90.2
     },
     {
       "bidNtceNo": "R26BK01409553",
@@ -478,7 +478,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "GPU 서버 구축은 AI/LLM 및 AI 시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 109.2
+      "_hours_remaining": 108.2
     },
     {
       "bidNtceNo": "R26BK01481394",
@@ -512,7 +512,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "RISE AI 기본소양·교원연수용 융합프로그램 개발로 매우 관련",
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 109.2
+      "_hours_remaining": 108.2
     }
   ],
   "open": [
@@ -548,7 +548,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 협업 시대 직무·워크플로우 연구로 AI 인력양성·컨설팅 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01477421",
@@ -583,7 +583,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 고용서비스 연구로 AI 컨설팅·시스템 구축 분야와 직접 연관.",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01478434",
@@ -617,7 +617,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 공공데이터·데이터기반 행정체계 개선 컨설팅으로 매우 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01479146",
@@ -651,7 +651,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "삼킴장애 AI 기반 웨어러블 의료데이터·특허전략 연구로 디지털헬스·AI R&D에 직접 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01479425",
@@ -686,7 +686,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 모델 입력변수 최적화·예측정밀도 개선은 AI 컨설팅·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01485004",
@@ -720,7 +720,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "RISE 사업의 AI 교육·시스템 구축·창업지원 컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01485863",
@@ -754,7 +754,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "식물 식별·계절분석 AI 모델 개발로 AI 시스템 구축 경험과 유사",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01476010",
@@ -788,7 +788,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 서비스 정책 아카이브 운영은 AI 정책·시스템 구축 관련 업무와 연관됨.",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01479042",
@@ -822,7 +822,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "바이오마커·치료후보 개발은 의약품·바이오 R&D와 직접 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01479143",
@@ -856,7 +856,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "임상 데이터 기반 예후 예측 개발로 의료 AI·데이터 분야에 매우 관련",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01475539",
@@ -890,7 +890,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "백신 R&D 투자유치용 IR 고도화로 의약·바이오 R&D·컨설팅과 직접 연관",
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 205.2
+      "_hours_remaining": 204.2
     },
     {
       "bidNtceNo": "R26BK01463661",
@@ -924,7 +924,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "신문사 AI 전환 인프라 조사로 AI 컨설팅·구축 관련",
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 206.2
+      "_hours_remaining": 205.2
     },
     {
       "bidNtceNo": "R26BK01475639",
@@ -958,7 +958,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI·디지털 학습 페스티벌 운영으로 AI 교육·교원연수 관련",
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 206.2
+      "_hours_remaining": 205.2
     },
     {
       "bidNtceNo": "R26BK01476523",
@@ -992,7 +992,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "온디바이스 연합학습(AI) 시스템 개발로 AI·시스템구축에 직접 관련",
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 206.2
+      "_hours_remaining": 205.2
     },
     {
       "bidNtceNo": "R26BK01483135",
@@ -1026,7 +1026,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 학습용 데이터셋 구축은 관련되나 교량 붕괴(토목) 분야라 도메인 불일치",
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 206.2
+      "_hours_remaining": 205.2
     },
     {
       "bidNtceNo": "R26BK01483034",
@@ -1061,7 +1061,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 기반 데이터 품질관리·홍수예측은 AI 시스템 구축·컨설팅과 연관됨",
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 206.2
+      "_hours_remaining": 205.2
     },
     {
       "bidNtceNo": "R26BK01483716",
@@ -1095,7 +1095,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 기반 시스템 구축과 연관 있으나 분야는 지진안전으로 의료·금융과는 다른 영역",
       "_bidClseDt_iso": "2026-05-04T12:00:00+09:00",
-      "_hours_remaining": 207.2
+      "_hours_remaining": 206.2
     },
     {
       "bidNtceNo": "R26BK01480102",
@@ -1130,7 +1130,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI·빅데이터 기반 산림기상 정보 산출이 AI·데이터 분석 역량과 연관",
       "_bidClseDt_iso": "2026-05-04T12:00:00+09:00",
-      "_hours_remaining": 207.2
+      "_hours_remaining": 206.2
     },
     {
       "bidNtceNo": "R26BK01484466",
@@ -1164,7 +1164,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 공공데이터·데이터행정 컨설팅으로 AI·데이터 시스템 구축·컨설팅에 매우 관련",
       "_bidClseDt_iso": "2026-05-04T14:00:00+09:00",
-      "_hours_remaining": 209.2
+      "_hours_remaining": 208.2
     },
     {
       "bidNtceNo": "R26BK01481174",
@@ -1198,7 +1198,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "영상데이터 기반 AI 모델 고도화 연구로 AI 연구·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-04T16:00:00+09:00",
-      "_hours_remaining": 211.2
+      "_hours_remaining": 210.2
     },
     {
       "bidNtceNo": "R26BK01481275",
@@ -1232,7 +1232,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 전환에 따른 고용영향 분석은 AI 연구·정책·컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-05-04T17:00:00+09:00",
-      "_hours_remaining": 212.2
+      "_hours_remaining": 211.2
     },
     {
       "bidNtceNo": "R26BK01487294",
@@ -1266,7 +1266,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 공익데이터 활용 및 법제화 연구로 AI 정책·데이터 거버넌스 관련",
       "_bidClseDt_iso": "2026-05-04T17:00:00+09:00",
-      "_hours_remaining": 212.2
+      "_hours_remaining": 211.2
     },
     {
       "bidNtceNo": "R26BK01475685",
@@ -1300,7 +1300,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 활용 연구·정보포털 업무 재설계로 AI 컨설팅·연구·시스템 구축에 직접 관련",
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 253.2
+      "_hours_remaining": 252.2
     },
     {
       "bidNtceNo": "R26BK01480622",
@@ -1334,7 +1334,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 교육 운영 공고로 AI 인재양성·교육 분야와 직접 관련",
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 253.2
+      "_hours_remaining": 252.2
     },
     {
       "bidNtceNo": "R26BK01487925",
@@ -1368,7 +1368,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "의약품·바이오 연구개발(백신 현장실증) 분야와 직접 관련",
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 253.2
+      "_hours_remaining": 252.2
     },
     {
       "bidNtceNo": "R26BK01487915",
@@ -1402,7 +1402,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "교원 대상 AI 디지털 역량 강화 연수로 AI 인재양성/교원연수와 직접 관련",
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 253.2
+      "_hours_remaining": 252.2
     },
     {
       "bidNtceNo": "R26BK01488643",
@@ -1436,7 +1436,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "바이오 빅데이터 플랫폼 ISMS-P 인증, 의료·임상 데이터 관리에 직접 관련",
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 253.2
+      "_hours_remaining": 252.2
     },
     {
       "bidNtceNo": "R26BK01488590",
@@ -1470,7 +1470,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "빅데이터센터 유지보수로 데이터 인프라 관련, 스마트팜이라 직접성 낮음",
       "_bidClseDt_iso": "2026-05-06T11:00:00+09:00",
-      "_hours_remaining": 254.2
+      "_hours_remaining": 253.2
     },
     {
       "bidNtceNo": "R26BK01483660",
@@ -1504,7 +1504,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 캠퍼스 성과·운영 관리 연구로 AI 교육·운영 분야와 직접적 관련",
       "_bidClseDt_iso": "2026-05-06T14:00:00+09:00",
-      "_hours_remaining": 257.2
+      "_hours_remaining": 256.2
     },
     {
       "bidNtceNo": "R26BK01487787",
@@ -1538,7 +1538,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "국가시범도시 AI 전략 수립 연구로 AI 전략·컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-05-06T14:00:00+09:00",
-      "_hours_remaining": 257.2
+      "_hours_remaining": 256.2
     },
     {
       "bidNtceNo": "R26BK01478139",
@@ -1572,7 +1572,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 교원 연수 사업으로 AI 교원양성·교육컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-05-06T15:00:00+09:00",
-      "_hours_remaining": 258.2
+      "_hours_remaining": 257.2
     },
     {
       "bidNtceNo": "R26BK01480445",
@@ -1606,7 +1606,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 기반 영상(키프레임) 처리 고도화로 AI 시스템 구축 관련",
       "_bidClseDt_iso": "2026-05-06T15:00:00+09:00",
-      "_hours_remaining": 258.2
+      "_hours_remaining": 257.2
     },
     {
       "bidNtceNo": "R26BK01480477",
@@ -1640,7 +1640,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "XAI 기반 동영상 유사도 판독 고도화는 AI 시스템 구축·연구와 직접 관련",
       "_bidClseDt_iso": "2026-05-06T15:00:00+09:00",
-      "_hours_remaining": 258.2
+      "_hours_remaining": 257.2
     },
     {
       "bidNtceNo": "R26BK01477603",
@@ -1675,7 +1675,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 시스템 구축 사업으로 AI 개발·구축·컨설팅에 매우 관련",
       "_bidClseDt_iso": "2026-05-06T17:00:00+09:00",
-      "_hours_remaining": 260.2
+      "_hours_remaining": 259.2
     },
     {
       "bidNtceNo": "R26BK01477473",
@@ -1709,7 +1709,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "XBRL·DART 재무공시 개선은 금융데이터 분석/예측과 직접 관련",
       "_bidClseDt_iso": "2026-05-06T17:00:00+09:00",
-      "_hours_remaining": 260.2
+      "_hours_remaining": 259.2
     },
     {
       "bidNtceNo": "R26BK01480726",
@@ -1743,7 +1743,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "생성형 AI 활용 가능하나 본업은 영상(영화) 제작 중심",
       "_bidClseDt_iso": "2026-05-06T18:00:00+09:00",
-      "_hours_remaining": 261.2
+      "_hours_remaining": 260.2
     },
     {
       "bidNtceNo": "R26BK01475169",
@@ -1778,7 +1778,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI·빅데이터 경진대회로 AI 인재양성·공공사업 연관성 있음",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01474898",
@@ -1812,7 +1812,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "공공데이터·AI 창업경진 운영은 AI 지원사업·인재양성과 직접 연관",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01473052",
@@ -1846,7 +1846,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "한의약 AI 기본계획 연구로 디지털헬스·의료 AI 분야와 매우 적합",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01477974",
@@ -1882,7 +1882,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 기반 홍수예측 모델 고도화로 AI 연구·시스템 구축 컨설팅과 연관",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01481665",
@@ -1916,7 +1916,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 학습데이터 표준계약서 정비 연구로 데이터·AI 정책·컨설팅에 적합",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01481666",
@@ -1950,7 +1950,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 아동·청소년 온라인 성착취 대응 시스템 개선으로 AI 개발·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01483174",
@@ -1984,7 +1984,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "글로벌 AI 협력 행사 운영으로 AI 협력·네트워킹 및 사업화에 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01482183",
@@ -2018,7 +2018,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "교원 대상 AI·디지털 직무연수로 AI 인재양성·교원연수에 부합",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01481042",
@@ -2052,7 +2052,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "기상·기후용 AI 파운데이션 모델 개발로 LLM·데이터분석·시스템구축에 직접 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01484302",
@@ -2086,7 +2086,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "청소년 AI 이용 특성 분석과 대응 방안은 AI 리터러시·교육 연구와 직결",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01483286",
@@ -2121,7 +2121,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 신약개발 경진대회 운영으로 AI·의약품 R&D와 직접 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01486259",
@@ -2155,7 +2155,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 반도체 사업화 성과관리로 정부지원사업 컨설팅과 일치",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01486944",
@@ -2190,7 +2190,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 예측모델 개발로 AI 시스템 구축·컨설팅과 부분적 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01486487",
@@ -2224,7 +2224,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 RSV 항체 바인더 개발로 AI·바이오 R&D에 매우 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01480925",
@@ -2256,7 +2256,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 전산모사 연구로 기술적 일부 겹치나 우주·로봇 도메인 차이",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01481886",
@@ -2290,7 +2290,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 시스템 개발이라는 기술적 유사성은 있으나 위성 분야로 의료·금융과 직접 무관",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01478658",
@@ -2324,7 +2324,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "빅데이터 통계 시스템 개선은 데이터 분석·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01486790",
@@ -2358,7 +2358,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "빅데이터·알고리즘·웹 개발 기술은 유사하나 분야가 환경(녹조)임",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01486006",
@@ -2392,7 +2392,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "고장률 데이터 및 예측모델 고도화는 AI·데이터 분석과 직접 연관",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01486632",
@@ -2426,7 +2426,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "임직원 교육 용역이라 AI·교육 컨설팅 제공 시 부분 관련",
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 277.2
+      "_hours_remaining": 276.2
     },
     {
       "bidNtceNo": "R26BK01475925",
@@ -2460,7 +2460,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "건강보험 빅데이터 기반 의료·임상 데이터 분석 연구로 매우 관련",
       "_bidClseDt_iso": "2026-05-07T11:00:00+09:00",
-      "_hours_remaining": 278.2
+      "_hours_remaining": 277.2
     },
     {
       "bidNtceNo": "R26BK01483878",
@@ -2494,7 +2494,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 역량강화·정책·컨설팅 연구와 연관됨",
       "_bidClseDt_iso": "2026-05-07T12:00:00+09:00",
-      "_hours_remaining": 279.2
+      "_hours_remaining": 278.2
     },
     {
       "bidNtceNo": "R26BK01483915",
@@ -2528,7 +2528,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI·디지털 문해 교육 운영 사업으로 AI 리터러시와 직접 관련",
       "_bidClseDt_iso": "2026-05-07T15:00:00+09:00",
-      "_hours_remaining": 282.2
+      "_hours_remaining": 281.2
     },
     {
       "bidNtceNo": "R26BK01488932",
@@ -2562,7 +2562,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 데이터레이크 구축 연구로 AI 시스템·데이터 구축 역량에 직접 관련",
       "_bidClseDt_iso": "2026-05-07T15:00:00+09:00",
-      "_hours_remaining": 282.2
+      "_hours_remaining": 281.2
     },
     {
       "bidNtceNo": "R26BK01474102",
@@ -2596,7 +2596,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "초중등 AI 윤리 교수학습자료 개발은 AI 교육·교원연수와 직접 관련",
       "_bidClseDt_iso": "2026-05-07T17:00:00+09:00",
-      "_hours_remaining": 284.2
+      "_hours_remaining": 283.2
     },
     {
       "bidNtceNo": "R26BK01475149",
@@ -2630,7 +2630,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 아카이브 ISMP 수립은 AI 시스템 구축·컨설팅에 직접 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01477275",
@@ -2664,7 +2664,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 시사분석 시스템 고도화로 LLM·AI 개발·구축 직접 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01480967",
@@ -2698,7 +2698,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 보안 기준·모델 개발로 AI 시스템·컨설팅 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01481611",
@@ -2732,7 +2732,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI R&D용 클라우드 인프라 임차로 AI 인프라·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01484556",
@@ -2766,7 +2766,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "복지행정 AI 도우미 시범사업으로 AI/LLM 구축·컨설팅에 매우 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01486864",
@@ -2800,7 +2800,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 활용 기술동영상 제작 교육으로 AI 교육·훈련과 직접 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01486760",
@@ -2834,7 +2834,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 윤리 가이드라인 연구로 AI 관련 컨설팅·연구와 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01481769",
@@ -2868,7 +2868,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "드론·초분광 데이터의 머신러닝 연구로 AI·데이터 분석과 연관",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01482873",
@@ -2902,7 +2902,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "예측모델·AI 시스템 구축 경험은 활용 가능하나 분야는 환경(수질·녹조)",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01478449",
@@ -2936,7 +2936,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "G20 금융정책 연구로 금융·정부 컨설팅 분야와 부분적 연관",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01481029",
@@ -2970,7 +2970,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "금융 공공데이터 개방은 금융 데이터 분석·예측 및 시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 301.2
+      "_hours_remaining": 300.2
     },
     {
       "bidNtceNo": "R26BK01379423",
@@ -3004,7 +3004,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "국토교통 분야 창업지원으로 정부지원사업 운영·컨설팅과 부분적 연관",
       "_bidClseDt_iso": "2026-05-08T14:00:00+09:00",
-      "_hours_remaining": 305.2
+      "_hours_remaining": 304.2
     },
     {
       "bidNtceNo": "R26BK01485454",
@@ -3038,7 +3038,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "고영향 AI 책임·인증 사업으로 AI 거버넌스·컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-05-11T10:00:00+09:00",
-      "_hours_remaining": 373.2
+      "_hours_remaining": 372.2
     },
     {
       "bidNtceNo": "R26BK01478204",
@@ -3072,7 +3072,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 모델·실시간 시뮬레이터 개발로 AI 시스템 구축·정부 R&D 관련",
       "_bidClseDt_iso": "2026-05-12T10:00:00+09:00",
-      "_hours_remaining": 397.2
+      "_hours_remaining": 396.2
     },
     {
       "bidNtceNo": "R26BK01475290",
@@ -3106,7 +3106,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "교육·연구용 생성형 AI 서비스 도입으로 매우 관련",
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 445.2
+      "_hours_remaining": 444.2
     },
     {
       "bidNtceNo": "R26BK01481295",
@@ -3140,7 +3140,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 전환 기업진단·전략컨설팅으로 AI 컨설팅·지원 사업에 매우 적합",
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 445.2
+      "_hours_remaining": 444.2
     },
     {
       "bidNtceNo": "R26BK01485493",
@@ -3174,7 +3174,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 데이터센터 운영 플랫폼 구축으로 AI 시스템 구축·컨설팅에 매우 적합",
       "_bidClseDt_iso": "2026-05-14T11:00:00+09:00",
-      "_hours_remaining": 446.2
+      "_hours_remaining": 445.2
     },
     {
       "bidNtceNo": "R26BK01475475",
@@ -3208,7 +3208,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "금융권 데이터 연계 시스템으로 금융 데이터 분석·예측 분야와 일부 겹침",
       "_bidClseDt_iso": "2026-05-15T10:00:00+09:00",
-      "_hours_remaining": 469.2
+      "_hours_remaining": 468.2
     },
     {
       "bidNtceNo": "R26BK01484035",
@@ -3242,7 +3242,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "금융·주식 관련성이 있으나 본업은 자산운용·증권 선정이라 부분 관련",
       "_bidClseDt_iso": "2026-05-15T10:00:00+09:00",
-      "_hours_remaining": 469.2
+      "_hours_remaining": 468.2
     },
     {
       "bidNtceNo": "R26BK01473370",
@@ -3276,7 +3276,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "금융위원회 정보시스템 구축사업으로 금융 데이터 분석·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-19T10:00:00+09:00",
-      "_hours_remaining": 565.2
+      "_hours_remaining": 564.2
     },
     {
       "bidNtceNo": "R26BK01484568",
@@ -3310,7 +3310,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "고성능 GPU 클러스터·AI 서비스 인프라 구축으로 AI 시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-05-21T10:00:00+09:00",
-      "_hours_remaining": 613.2
+      "_hours_remaining": 612.2
     },
     {
       "bidNtceNo": "R26BK01456051",
@@ -3344,7 +3344,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "빅데이터 플랫폼 고도화는 AI·데이터 시스템 구축·컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-05-21T10:00:00+09:00",
-      "_hours_remaining": 613.2
+      "_hours_remaining": 612.2
     },
     {
       "bidNtceNo": "R26BK01481521",
@@ -3378,7 +3378,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 교육 온라인 콘텐츠 제작은 AI 교육·인재양성 및 리터러시와 직접 관련",
       "_bidClseDt_iso": "2026-05-21T10:00:00+09:00",
-      "_hours_remaining": 613.2
+      "_hours_remaining": 612.2
     },
     {
       "bidNtceNo": "R26BK01467529",
@@ -3412,7 +3412,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 시스템 구축으로 AI 개발·구축 분야에 직접 관련",
       "_bidClseDt_iso": "2026-06-02T11:00:00+09:00",
-      "_hours_remaining": 902.2
+      "_hours_remaining": 901.2
     },
     {
       "bidNtceNo": "R26BK01471627",
@@ -3446,7 +3446,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "빅데이터 플랫폼 고도화·ISMP 수립은 데이터 플랫폼 구축·컨설팅과 직접 연관",
       "_bidClseDt_iso": "2026-06-02T14:00:00+09:00",
-      "_hours_remaining": 905.2
+      "_hours_remaining": 904.2
     },
     {
       "bidNtceNo": "R26BK01484615",
@@ -3480,7 +3480,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI·디지털 평생직업교육 플랫폼 ISP 수립, AI 교육·시스템 구축 관련",
       "_bidClseDt_iso": "2026-06-05T10:00:00+09:00",
-      "_hours_remaining": 973.2
+      "_hours_remaining": 972.2
     },
     {
       "bidNtceNo": "R26BK01484400",
@@ -3514,7 +3514,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "지능형 무역·투자 플랫폼은 AI·금융·데이터 시스템 구축과 밀접",
       "_bidClseDt_iso": "2026-06-05T10:00:00+09:00",
-      "_hours_remaining": 973.2
+      "_hours_remaining": 972.2
     },
     {
       "bidNtceNo": "R26BK01474950",
@@ -4230,7 +4230,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 데이터 분석 모델 적용 사업으로 AI 컨설팅·시스템 구축에 매우 관련",
       "_bidClseDt_iso": "2026-04-24T12:00:00+09:00",
-      "_hours_remaining": -32.8
+      "_hours_remaining": -33.8
     },
     {
       "bidNtceNo": "R26BK01482225",
@@ -4264,7 +4264,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "감염병 예측 허브 시범운영으로 의료·임상 데이터 예측·분석 관련",
       "_bidClseDt_iso": "2026-04-24T11:00:00+09:00",
-      "_hours_remaining": -33.8
+      "_hours_remaining": -34.8
     },
     {
       "bidNtceNo": "R26BK01484783",
@@ -4298,7 +4298,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 디지털배움터 교육 운영으로 AI 교육·리터러시 관련",
       "_bidClseDt_iso": "2026-04-23T18:00:00+09:00",
-      "_hours_remaining": -50.8
+      "_hours_remaining": -51.8
     },
     {
       "bidNtceNo": "R26BK01483102",
@@ -4332,7 +4332,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "딥러닝 기반 영상 변조 분석 연구로 AI 연구·시스템 구축과 직접 관련",
       "_bidClseDt_iso": "2026-04-23T14:30:00+09:00",
-      "_hours_remaining": -54.3
+      "_hours_remaining": -55.3
     },
     {
       "bidNtceNo": "R26BK01480997",
@@ -4366,7 +4366,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 알고리즘·데이터 분석 관련은 유사하나 교통 도메인 특화",
       "_bidClseDt_iso": "2026-04-23T12:00:00+09:00",
-      "_hours_remaining": -56.8
+      "_hours_remaining": -57.8
     },
     {
       "bidNtceNo": "R26BK01477141",
@@ -4401,7 +4401,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 기반 예측 기술 개발로 AI 시스템 구축 경험과 일부 관련",
       "_bidClseDt_iso": "2026-04-23T12:00:00+09:00",
-      "_hours_remaining": -56.8
+      "_hours_remaining": -57.8
     },
     {
       "bidNtceNo": "R26BK01481539",
@@ -4435,7 +4435,7 @@
       "_relevance_score": 4,
       "_relevance_reason": "AI 기술 연구로 사용자의 AI 관심과 관련되나 철도·시뮬레이션 특화",
       "_bidClseDt_iso": "2026-04-22T16:00:00+09:00",
-      "_hours_remaining": -76.8
+      "_hours_remaining": -77.8
     },
     {
       "bidNtceNo": "R26BK01474445",
@@ -4469,7 +4469,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "국가 바이오 빅데이터 구축 연구회 운영으로 의료·임상 데이터·바이오 R&D와 직접 관련",
       "_bidClseDt_iso": "2026-04-22T15:00:00+09:00",
-      "_hours_remaining": -77.8
+      "_hours_remaining": -78.8
     },
     {
       "bidNtceNo": "R26BK01473951",
@@ -4503,7 +4503,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 인재육성 프로그램으로 AI 인재양성 교육과 직접 관련",
       "_bidClseDt_iso": "2026-04-22T14:00:00+09:00",
-      "_hours_remaining": -78.8
+      "_hours_remaining": -79.8
     },
     {
       "bidNtceNo": "R26BK01479217",
@@ -4537,7 +4537,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "투자역량 교육은 금융 데이터 분석·예측 분야와 부분적으로 겹침",
       "_bidClseDt_iso": "2026-04-22T11:00:00+09:00",
-      "_hours_remaining": -81.8
+      "_hours_remaining": -82.8
     },
     {
       "bidNtceNo": "R26BK01475125",
@@ -4571,7 +4571,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 인재양성(부스트캠프) 운영 대행으로 교육·컨설팅과 직접 관련",
       "_bidClseDt_iso": "2026-04-21T15:00:00+09:00",
-      "_hours_remaining": -101.8
+      "_hours_remaining": -102.8
     },
     {
       "bidNtceNo": "R26BK01475935",
@@ -4605,7 +4605,7 @@
       "_relevance_score": 5,
       "_relevance_reason": "AI 기반 학습경로 설계 연구로 AI 교육·인재양성에 직접 관련",
       "_bidClseDt_iso": "2026-04-21T14:20:00+09:00",
-      "_hours_remaining": -102.5
+      "_hours_remaining": -103.4
     },
     {
       "bidNtceNo": "R26BK01449166",
@@ -4641,7 +4641,7 @@
       "_relevance_score": 3,
       "_relevance_reason": "AI 모델·특허데이터 구축과 관련 있으나 도메인은 세라믹",
       "_bidClseDt_iso": "2026-04-21T10:00:00+09:00",
-      "_hours_remaining": -106.8
+      "_hours_remaining": -107.8
     }
   ]
 }
