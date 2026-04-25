@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:47:37+09:00",
+  "generated_at": "2026-04-25T09:01:30+09:00",
   "config": {
     "keywords": [
       "AI",
@@ -22,10 +22,10 @@
     "keep_days": 60
   },
   "stats": {
-    "open": 147,
+    "open": 151,
     "closing_soon": 39,
     "closed": 23,
-    "total": 209
+    "total": 213
   },
   "closing_soon": [
     {
@@ -58,7 +58,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01477790",
@@ -90,7 +90,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01476806",
@@ -122,7 +122,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01477660",
@@ -154,7 +154,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01476806",
@@ -186,7 +186,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01480190",
@@ -218,7 +218,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01477937",
@@ -250,7 +250,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-27T10:00:00+09:00",
-      "_hours_remaining": 64.2
+      "_hours_remaining": 49.0
     },
     {
       "bidNtceNo": "R26BK01484911",
@@ -282,7 +282,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-27T11:00:00+09:00",
-      "_hours_remaining": 65.2
+      "_hours_remaining": 50.0
     },
     {
       "bidNtceNo": "R26BK01488202",
@@ -309,12 +309,12 @@
       "ntceInsttOfclTelNo": "053-210-9964",
       "sucsfbidMthdNm": "수의시담-수의시담",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-27T12:00:00+09:00",
-      "_hours_remaining": 66.2
+      "_hours_remaining": 51.0
     },
     {
       "bidNtceNo": "R26BK01479530",
@@ -346,7 +346,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-27T14:00:00+09:00",
-      "_hours_remaining": 68.2
+      "_hours_remaining": 53.0
     },
     {
       "bidNtceNo": "R26BK01487848",
@@ -373,12 +373,12 @@
       "ntceInsttOfclTelNo": "063-219-2383",
       "sucsfbidMthdNm": "수의시담-수의시담",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-27T15:00:00+09:00",
-      "_hours_remaining": 69.2
+      "_hours_remaining": 54.0
     },
     {
       "bidNtceNo": "R26BK01480021",
@@ -410,7 +410,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-27T16:00:00+09:00",
-      "_hours_remaining": 70.2
+      "_hours_remaining": 55.0
     },
     {
       "bidNtceNo": "R26BK01474005",
@@ -442,7 +442,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 88.2
+      "_hours_remaining": 73.0
     },
     {
       "bidNtceNo": "R26BK01463788",
@@ -474,7 +474,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 88.2
+      "_hours_remaining": 73.0
     },
     {
       "bidNtceNo": "R26BK01476681",
@@ -506,7 +506,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 88.2
+      "_hours_remaining": 73.0
     },
     {
       "bidNtceNo": "R26BK01471819",
@@ -538,7 +538,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 88.2
+      "_hours_remaining": 73.0
     },
     {
       "bidNtceNo": "R26BK01474079",
@@ -570,7 +570,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 88.2
+      "_hours_remaining": 73.0
     },
     {
       "bidNtceNo": "R26BK01485667",
@@ -602,7 +602,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-28T10:00:00+09:00",
-      "_hours_remaining": 88.2
+      "_hours_remaining": 73.0
     },
     {
       "bidNtceNo": "R26BK01483073",
@@ -634,7 +634,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-28T11:00:00+09:00",
-      "_hours_remaining": 89.2
+      "_hours_remaining": 74.0
     },
     {
       "bidNtceNo": "R26BK01477394",
@@ -666,7 +666,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-28T11:00:00+09:00",
-      "_hours_remaining": 89.2
+      "_hours_remaining": 74.0
     },
     {
       "bidNtceNo": "R26BK01479102",
@@ -698,7 +698,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-28T14:00:00+09:00",
-      "_hours_remaining": 92.2
+      "_hours_remaining": 77.0
     },
     {
       "bidNtceNo": "R26BK01487222",
@@ -725,12 +725,12 @@
       "ntceInsttOfclTelNo": "064-802-2157",
       "sucsfbidMthdNm": "수의시담(2인 이상)-2인이상 지정업체의 견적에의한 수의계약(카탈로그)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "연금"
       ],
       "_bidClseDt_iso": "2026-04-28T14:00:00+09:00",
-      "_hours_remaining": 92.2
+      "_hours_remaining": 77.0
     },
     {
       "bidNtceNo": "R26BK01479831",
@@ -762,7 +762,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-29T10:00:00+09:00",
-      "_hours_remaining": 112.2
+      "_hours_remaining": 97.0
     },
     {
       "bidNtceNo": "R26BK01477660",
@@ -794,7 +794,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-29T10:00:00+09:00",
-      "_hours_remaining": 112.2
+      "_hours_remaining": 97.0
     },
     {
       "bidNtceNo": "R26BK01484211",
@@ -826,7 +826,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-29T10:00:00+09:00",
-      "_hours_remaining": 112.2
+      "_hours_remaining": 97.0
     },
     {
       "bidNtceNo": "R26BK01485044",
@@ -858,7 +858,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-29T10:00:00+09:00",
-      "_hours_remaining": 112.2
+      "_hours_remaining": 97.0
     },
     {
       "bidNtceNo": "R26BK01476333",
@@ -890,7 +890,7 @@
         "전망"
       ],
       "_bidClseDt_iso": "2026-04-29T11:00:00+09:00",
-      "_hours_remaining": 113.2
+      "_hours_remaining": 98.0
     },
     {
       "bidNtceNo": "R26BK01478512",
@@ -922,7 +922,7 @@
         "금융"
       ],
       "_bidClseDt_iso": "2026-04-29T14:00:00+09:00",
-      "_hours_remaining": 116.2
+      "_hours_remaining": 101.0
     },
     {
       "bidNtceNo": "R26BK01477852",
@@ -954,7 +954,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-29T15:00:00+09:00",
-      "_hours_remaining": 117.2
+      "_hours_remaining": 102.0
     },
     {
       "bidNtceNo": "R26BK01470946",
@@ -986,7 +986,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-29T16:00:00+09:00",
-      "_hours_remaining": 118.2
+      "_hours_remaining": 103.0
     },
     {
       "bidNtceNo": "R26BK01470946",
@@ -1018,7 +1018,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-29T16:00:00+09:00",
-      "_hours_remaining": 118.2
+      "_hours_remaining": 103.0
     },
     {
       "bidNtceNo": "R26BK01409553",
@@ -1050,7 +1050,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 136.2
+      "_hours_remaining": 121.0
     },
     {
       "bidNtceNo": "R26BK01481394",
@@ -1082,7 +1082,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 136.2
+      "_hours_remaining": 121.0
     },
     {
       "bidNtceNo": "R26BK01485953",
@@ -1114,7 +1114,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 136.2
+      "_hours_remaining": 121.0
     },
     {
       "bidNtceNo": "R26BK01484409",
@@ -1146,7 +1146,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 136.2
+      "_hours_remaining": 121.0
     },
     {
       "bidNtceNo": "R26BK01487212",
@@ -1173,12 +1173,12 @@
       "ntceInsttOfclTelNo": "062-380-4161",
       "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 136.2
+      "_hours_remaining": 121.0
     },
     {
       "bidNtceNo": "R26BK01487148",
@@ -1205,12 +1205,12 @@
       "ntceInsttOfclTelNo": "062-380-4161",
       "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-30T10:00:00+09:00",
-      "_hours_remaining": 136.2
+      "_hours_remaining": 121.0
     },
     {
       "bidNtceNo": "R26BK01488672",
@@ -1237,12 +1237,12 @@
       "ntceInsttOfclTelNo": "055-650-4424",
       "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-30T11:00:00+09:00",
-      "_hours_remaining": 137.2
+      "_hours_remaining": 122.0
     },
     {
       "bidNtceNo": "R26BK01481249",
@@ -1274,7 +1274,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-30T12:00:00+09:00",
-      "_hours_remaining": 138.2
+      "_hours_remaining": 123.0
     }
   ],
   "open": [
@@ -1308,7 +1308,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01477421",
@@ -1341,7 +1341,7 @@
         "전망"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01478434",
@@ -1373,7 +1373,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01479146",
@@ -1405,7 +1405,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01479425",
@@ -1438,7 +1438,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01478434",
@@ -1470,7 +1470,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01485004",
@@ -1502,7 +1502,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01485863",
@@ -1534,7 +1534,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01476010",
@@ -1566,7 +1566,7 @@
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01477540",
@@ -1600,7 +1600,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01479042",
@@ -1632,7 +1632,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01479143",
@@ -1664,7 +1664,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01484043",
@@ -1696,7 +1696,7 @@
         "금융"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01475539",
@@ -1728,7 +1728,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-05-04T10:00:00+09:00",
-      "_hours_remaining": 232.2
+      "_hours_remaining": 217.0
     },
     {
       "bidNtceNo": "R26BK01463661",
@@ -1760,7 +1760,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01475639",
@@ -1792,7 +1792,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01476523",
@@ -1824,7 +1824,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01478789",
@@ -1856,7 +1856,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01483135",
@@ -1888,7 +1888,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01483034",
@@ -1921,7 +1921,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01474718",
@@ -1953,7 +1953,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01475220",
@@ -1985,7 +1985,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-04T11:00:00+09:00",
-      "_hours_remaining": 233.2
+      "_hours_remaining": 218.0
     },
     {
       "bidNtceNo": "R26BK01483716",
@@ -2017,7 +2017,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T12:00:00+09:00",
-      "_hours_remaining": 234.2
+      "_hours_remaining": 219.0
     },
     {
       "bidNtceNo": "R26BK01480102",
@@ -2050,7 +2050,7 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-04T12:00:00+09:00",
-      "_hours_remaining": 234.2
+      "_hours_remaining": 219.0
     },
     {
       "bidNtceNo": "R26BK01486054",
@@ -2082,7 +2082,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-05-04T12:00:00+09:00",
-      "_hours_remaining": 234.2
+      "_hours_remaining": 219.0
     },
     {
       "bidNtceNo": "R26BK01484466",
@@ -2114,7 +2114,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T14:00:00+09:00",
-      "_hours_remaining": 236.2
+      "_hours_remaining": 221.0
     },
     {
       "bidNtceNo": "R26BK01481174",
@@ -2146,7 +2146,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T16:00:00+09:00",
-      "_hours_remaining": 238.2
+      "_hours_remaining": 223.0
     },
     {
       "bidNtceNo": "R26BK01481037",
@@ -2178,7 +2178,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T17:00:00+09:00",
-      "_hours_remaining": 239.2
+      "_hours_remaining": 224.0
     },
     {
       "bidNtceNo": "R26BK01481275",
@@ -2205,12 +2205,12 @@
       "ntceInsttOfclTelNo": "",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T17:00:00+09:00",
-      "_hours_remaining": 239.2
+      "_hours_remaining": 224.0
     },
     {
       "bidNtceNo": "R26BK01487294",
@@ -2237,12 +2237,12 @@
       "ntceInsttOfclTelNo": "",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-04T17:00:00+09:00",
-      "_hours_remaining": 239.2
+      "_hours_remaining": 224.0
     },
     {
       "bidNtceNo": "R26BK01475685",
@@ -2274,7 +2274,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 280.2
+      "_hours_remaining": 265.0
     },
     {
       "bidNtceNo": "R26BK01480622",
@@ -2306,7 +2306,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 280.2
+      "_hours_remaining": 265.0
     },
     {
       "bidNtceNo": "R26BK01487925",
@@ -2333,12 +2333,12 @@
       "ntceInsttOfclTelNo": "063-270-4455",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 280.2
+      "_hours_remaining": 265.0
     },
     {
       "bidNtceNo": "R26BK01487915",
@@ -2365,12 +2365,12 @@
       "ntceInsttOfclTelNo": "",
       "sucsfbidMthdNm": "규격가격동시입찰-제안적격자 중 예가 내 최저가 투찰자",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 280.2
+      "_hours_remaining": 265.0
     },
     {
       "bidNtceNo": "R26BK01478441",
@@ -2402,7 +2402,7 @@
         "모형"
       ],
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 280.2
+      "_hours_remaining": 265.0
     },
     {
       "bidNtceNo": "R26BK01488643",
@@ -2429,12 +2429,12 @@
       "ntceInsttOfclTelNo": "042-869-0787",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-06T10:00:00+09:00",
-      "_hours_remaining": 280.2
+      "_hours_remaining": 265.0
     },
     {
       "bidNtceNo": "R26BK01480575",
@@ -2466,7 +2466,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T11:00:00+09:00",
-      "_hours_remaining": 281.2
+      "_hours_remaining": 266.0
     },
     {
       "bidNtceNo": "R26BK01488590",
@@ -2493,12 +2493,12 @@
       "ntceInsttOfclTelNo": "061-750-6113",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-06T11:00:00+09:00",
-      "_hours_remaining": 281.2
+      "_hours_remaining": 266.0
     },
     {
       "bidNtceNo": "R26BK01484906",
@@ -2530,7 +2530,7 @@
         "재무"
       ],
       "_bidClseDt_iso": "2026-05-06T12:00:00+09:00",
-      "_hours_remaining": 282.2
+      "_hours_remaining": 267.0
     },
     {
       "bidNtceNo": "R26BK01483660",
@@ -2557,12 +2557,12 @@
       "ntceInsttOfclTelNo": "02-6943-9959",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T14:00:00+09:00",
-      "_hours_remaining": 284.2
+      "_hours_remaining": 269.0
     },
     {
       "bidNtceNo": "R26BK01487787",
@@ -2589,12 +2589,12 @@
       "ntceInsttOfclTelNo": "02-3667-7114",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-06T14:00:00+09:00",
-      "_hours_remaining": 284.2
+      "_hours_remaining": 269.0
     },
     {
       "bidNtceNo": "R26BK01478139",
@@ -2626,7 +2626,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T15:00:00+09:00",
-      "_hours_remaining": 285.2
+      "_hours_remaining": 270.0
     },
     {
       "bidNtceNo": "R26BK01480445",
@@ -2658,7 +2658,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T15:00:00+09:00",
-      "_hours_remaining": 285.2
+      "_hours_remaining": 270.0
     },
     {
       "bidNtceNo": "R26BK01480477",
@@ -2690,7 +2690,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-06T15:00:00+09:00",
-      "_hours_remaining": 285.2
+      "_hours_remaining": 270.0
     },
     {
       "bidNtceNo": "R26BK01477603",
@@ -2723,7 +2723,7 @@
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-06T17:00:00+09:00",
-      "_hours_remaining": 287.2
+      "_hours_remaining": 272.0
     },
     {
       "bidNtceNo": "R26BK01477473",
@@ -2755,7 +2755,39 @@
         "재무"
       ],
       "_bidClseDt_iso": "2026-05-06T17:00:00+09:00",
-      "_hours_remaining": 287.2
+      "_hours_remaining": 272.0
+    },
+    {
+      "bidNtceNo": "R26BK01480726",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "중랑 역사인물 AI 영화 제작 용역",
+      "ntceInsttNm": "중랑문화원",
+      "ntceInsttCd": "B553375",
+      "dminsttNm": "중랑문화원",
+      "dminsttCd": "B553375",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-04-24 18:43:18",
+      "bidBeginDt": "2026-04-24 18:45:00",
+      "bidClseDt": "2026-05-06 18:00:00",
+      "opengDt": "2026-05-06 19:00:00",
+      "asignBdgtAmt": "143000000",
+      "presmptPrce": "130000000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480726&bidPbancOrd=000",
+      "ntceInsttOfclNm": "전미향",
+      "ntceInsttOfclTelNo": "***********",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "first_seen_date": "2026-04-25",
+      "last_seen_date": "2026-04-25",
+      "matched_keywords": [
+        "AI"
+      ],
+      "_bidClseDt_iso": "2026-05-06T18:00:00+09:00",
+      "_hours_remaining": 273.0
     },
     {
       "bidNtceNo": "R26BK01475169",
@@ -2788,7 +2820,7 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01474898",
@@ -2820,7 +2852,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01473052",
@@ -2852,7 +2884,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01477974",
@@ -2886,7 +2918,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01479919",
@@ -2918,7 +2950,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01481665",
@@ -2950,7 +2982,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01481666",
@@ -2982,7 +3014,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01481295",
@@ -3014,7 +3046,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01483174",
@@ -3046,7 +3078,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01482183",
@@ -3078,7 +3110,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01481042",
@@ -3110,7 +3142,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01484302",
@@ -3142,7 +3174,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01483286",
@@ -3175,7 +3207,7 @@
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01486259",
@@ -3202,12 +3234,12 @@
       "ntceInsttOfclTelNo": "070-4056-8540",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01486944",
@@ -3234,13 +3266,13 @@
       "ntceInsttOfclTelNo": "031-400-1634",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI",
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01486487",
@@ -3267,12 +3299,12 @@
       "ntceInsttOfclTelNo": "043-719-8139",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01480925",
@@ -3302,7 +3334,7 @@
       "last_seen_date": "2026-04-24",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01481886",
@@ -3334,7 +3366,7 @@
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01478658",
@@ -3366,7 +3398,7 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01486790",
@@ -3393,12 +3425,12 @@
       "ntceInsttOfclTelNo": "031-400-1634",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01479495",
@@ -3430,7 +3462,7 @@
         "모형"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01478503",
@@ -3462,7 +3494,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01486006",
@@ -3489,12 +3521,12 @@
       "ntceInsttOfclTelNo": "055-751-5533",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01486632",
@@ -3521,12 +3553,12 @@
       "ntceInsttOfclTelNo": "02-2156-2183",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "투자"
       ],
       "_bidClseDt_iso": "2026-05-07T10:00:00+09:00",
-      "_hours_remaining": 304.2
+      "_hours_remaining": 289.0
     },
     {
       "bidNtceNo": "R26BK01475925",
@@ -3558,7 +3590,7 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-07T11:00:00+09:00",
-      "_hours_remaining": 305.2
+      "_hours_remaining": 290.0
     },
     {
       "bidNtceNo": "R26BK01483878",
@@ -3590,7 +3622,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T12:00:00+09:00",
-      "_hours_remaining": 306.2
+      "_hours_remaining": 291.0
     },
     {
       "bidNtceNo": "R26BK01482601",
@@ -3622,7 +3654,7 @@
         "모형"
       ],
       "_bidClseDt_iso": "2026-05-07T12:00:00+09:00",
-      "_hours_remaining": 306.2
+      "_hours_remaining": 291.0
     },
     {
       "bidNtceNo": "R26BK01483915",
@@ -3649,12 +3681,12 @@
       "ntceInsttOfclTelNo": "063-276-8310",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-07T15:00:00+09:00",
-      "_hours_remaining": 309.2
+      "_hours_remaining": 294.0
     },
     {
       "bidNtceNo": "R26BK01474102",
@@ -3681,12 +3713,12 @@
       "ntceInsttOfclTelNo": "062-380-4721",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-07T17:00:00+09:00",
-      "_hours_remaining": 311.2
+      "_hours_remaining": 296.0
     },
     {
       "bidNtceNo": "R26BK01475149",
@@ -3718,7 +3750,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01477275",
@@ -3750,7 +3782,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01480967",
@@ -3782,7 +3814,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01481611",
@@ -3814,7 +3846,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01481839",
@@ -3846,7 +3878,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01483451",
@@ -3878,7 +3910,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01484556",
@@ -3910,7 +3942,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01486864",
@@ -3937,12 +3969,12 @@
       "ntceInsttOfclTelNo": "063-238-0266",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01471809",
@@ -3969,12 +4001,12 @@
       "ntceInsttOfclTelNo": "070-4056-7879",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01486760",
@@ -4001,12 +4033,12 @@
       "ntceInsttOfclTelNo": "063-238-0266",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "인공지능"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01481769",
@@ -4038,7 +4070,7 @@
         "머신러닝"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01487868",
@@ -4065,12 +4097,12 @@
       "ntceInsttOfclTelNo": "042-724-7579",
       "sucsfbidMthdNm": "적격심사제-추정가격이 5억원 미만 2억원 이상인 P.Q비대상 기술용역의 평가기준",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "모델링"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01486162",
@@ -4097,13 +4129,13 @@
       "ntceInsttOfclTelNo": "070-4056-8682",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "모형",
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01482873",
@@ -4135,7 +4167,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01478449",
@@ -4167,7 +4199,7 @@
         "재무"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01480182",
@@ -4199,7 +4231,7 @@
         "금융"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01481029",
@@ -4231,7 +4263,7 @@
         "금융"
       ],
       "_bidClseDt_iso": "2026-05-08T10:00:00+09:00",
-      "_hours_remaining": 328.2
+      "_hours_remaining": 313.0
     },
     {
       "bidNtceNo": "R26BK01379423",
@@ -4263,7 +4295,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-05-08T14:00:00+09:00",
-      "_hours_remaining": 332.2
+      "_hours_remaining": 317.0
     },
     {
       "bidNtceNo": "R26BK01485454",
@@ -4295,7 +4327,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-11T10:00:00+09:00",
-      "_hours_remaining": 400.2
+      "_hours_remaining": 385.0
     },
     {
       "bidNtceNo": "R26BK01478382",
@@ -4327,7 +4359,7 @@
         "재무"
       ],
       "_bidClseDt_iso": "2026-05-11T10:00:00+09:00",
-      "_hours_remaining": 400.2
+      "_hours_remaining": 385.0
     },
     {
       "bidNtceNo": "R26BK01478204",
@@ -4359,7 +4391,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-12T10:00:00+09:00",
-      "_hours_remaining": 424.2
+      "_hours_remaining": 409.0
     },
     {
       "bidNtceNo": "R26BK01481275",
@@ -4386,12 +4418,12 @@
       "ntceInsttOfclTelNo": "",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-12T17:00:00+09:00",
-      "_hours_remaining": 431.2
+      "_hours_remaining": 416.0
     },
     {
       "bidNtceNo": "R26BK01487294",
@@ -4418,12 +4450,12 @@
       "ntceInsttOfclTelNo": "",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-12T17:00:00+09:00",
-      "_hours_remaining": 431.2
+      "_hours_remaining": 416.0
     },
     {
       "bidNtceNo": "R26BK01475290",
@@ -4455,7 +4487,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 472.2
+      "_hours_remaining": 457.0
     },
     {
       "bidNtceNo": "R26BK01481295",
@@ -4487,7 +4519,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 472.2
+      "_hours_remaining": 457.0
     },
     {
       "bidNtceNo": "R26BK01476242",
@@ -4519,7 +4551,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 472.2
+      "_hours_remaining": 457.0
     },
     {
       "bidNtceNo": "R26BK01484223",
@@ -4551,7 +4583,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 472.2
+      "_hours_remaining": 457.0
     },
     {
       "bidNtceNo": "R26BK01484223",
@@ -4583,7 +4615,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 472.2
+      "_hours_remaining": 457.0
     },
     {
       "bidNtceNo": "R26BK01485799",
@@ -4615,7 +4647,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-05-14T10:00:00+09:00",
-      "_hours_remaining": 472.2
+      "_hours_remaining": 457.0
     },
     {
       "bidNtceNo": "R26BK01485493",
@@ -4647,7 +4679,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-14T11:00:00+09:00",
-      "_hours_remaining": 473.2
+      "_hours_remaining": 458.0
     },
     {
       "bidNtceNo": "R26BK01483627",
@@ -4679,7 +4711,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-15T10:00:00+09:00",
-      "_hours_remaining": 496.2
+      "_hours_remaining": 481.0
     },
     {
       "bidNtceNo": "R26BK01475475",
@@ -4711,7 +4743,7 @@
         "금융"
       ],
       "_bidClseDt_iso": "2026-05-15T10:00:00+09:00",
-      "_hours_remaining": 496.2
+      "_hours_remaining": 481.0
     },
     {
       "bidNtceNo": "R26BK01480269",
@@ -4743,7 +4775,7 @@
         "연금"
       ],
       "_bidClseDt_iso": "2026-05-15T10:00:00+09:00",
-      "_hours_remaining": 496.2
+      "_hours_remaining": 481.0
     },
     {
       "bidNtceNo": "R26BK01484035",
@@ -4775,7 +4807,7 @@
         "연금"
       ],
       "_bidClseDt_iso": "2026-05-15T10:00:00+09:00",
-      "_hours_remaining": 496.2
+      "_hours_remaining": 481.0
     },
     {
       "bidNtceNo": "R26BK01473370",
@@ -4807,7 +4839,7 @@
         "금융"
       ],
       "_bidClseDt_iso": "2026-05-19T10:00:00+09:00",
-      "_hours_remaining": 592.2
+      "_hours_remaining": 577.0
     },
     {
       "bidNtceNo": "R26BK01486705",
@@ -4834,12 +4866,12 @@
       "ntceInsttOfclTelNo": "070-4056-6541",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "예측"
       ],
       "_bidClseDt_iso": "2026-05-20T10:00:00+09:00",
-      "_hours_remaining": 616.2
+      "_hours_remaining": 601.0
     },
     {
       "bidNtceNo": "R26BK01484568",
@@ -4866,12 +4898,12 @@
       "ntceInsttOfclTelNo": "070-4056-6122",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
       "_bidClseDt_iso": "2026-05-21T10:00:00+09:00",
-      "_hours_remaining": 640.2
+      "_hours_remaining": 625.0
     },
     {
       "bidNtceNo": "R26BK01456051",
@@ -4903,7 +4935,39 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-05-21T10:00:00+09:00",
-      "_hours_remaining": 640.2
+      "_hours_remaining": 625.0
+    },
+    {
+      "bidNtceNo": "R26BK01481521",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "AI 교육 온라인 콘텐츠 제작 용역",
+      "ntceInsttNm": "인공지능산업융합사업단",
+      "ntceInsttCd": "Z039353",
+      "dminsttNm": "인공지능산업융합사업단",
+      "dminsttCd": "Z039353",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-04-24 18:03:03",
+      "bidBeginDt": "2026-05-19 10:00:00",
+      "bidClseDt": "2026-05-21 10:00:00",
+      "opengDt": "2026-05-21 11:00:00",
+      "asignBdgtAmt": "199868000",
+      "presmptPrce": "181698182",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01481521&bidPbancOrd=000",
+      "ntceInsttOfclNm": "김혜인",
+      "ntceInsttOfclTelNo": "062-610-3961",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
+      "first_seen_date": "2026-04-25",
+      "last_seen_date": "2026-04-25",
+      "matched_keywords": [
+        "AI"
+      ],
+      "_bidClseDt_iso": "2026-05-21T10:00:00+09:00",
+      "_hours_remaining": 625.0
     },
     {
       "bidNtceNo": "R26BK01480852",
@@ -4935,7 +4999,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-06-02T10:00:00+09:00",
-      "_hours_remaining": 928.2
+      "_hours_remaining": 913.0
     },
     {
       "bidNtceNo": "R26BK01467529",
@@ -4967,7 +5031,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-06-02T11:00:00+09:00",
-      "_hours_remaining": 929.2
+      "_hours_remaining": 914.0
     },
     {
       "bidNtceNo": "R26BK01482333",
@@ -4999,7 +5063,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-06-02T14:00:00+09:00",
-      "_hours_remaining": 932.2
+      "_hours_remaining": 917.0
     },
     {
       "bidNtceNo": "R26BK01471627",
@@ -5031,7 +5095,71 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-06-02T14:00:00+09:00",
-      "_hours_remaining": 932.2
+      "_hours_remaining": 917.0
+    },
+    {
+      "bidNtceNo": "R26BK01484615",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "한국폴리텍대학 AI.디지털 기반 평생직업교육 플랫폼 정보화전략 계획(ISP) 수립 사업 용역계약",
+      "ntceInsttNm": "조달청 인천지방조달청",
+      "ntceInsttCd": "1230133",
+      "dminsttNm": "학교법인한국폴리텍",
+      "dminsttCd": "B552014",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "Y",
+      "bidNtceDt": "2026-04-24 18:14:54",
+      "bidBeginDt": "2026-06-02 10:00:00",
+      "bidClseDt": "2026-06-05 10:00:00",
+      "opengDt": "2026-06-05 11:00:00",
+      "asignBdgtAmt": "837279800",
+      "presmptPrce": "754545455",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01484615&bidPbancOrd=000",
+      "ntceInsttOfclNm": "박정웅",
+      "ntceInsttOfclTelNo": "070-4056-7866",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
+      "first_seen_date": "2026-04-25",
+      "last_seen_date": "2026-04-25",
+      "matched_keywords": [
+        "AI"
+      ],
+      "_bidClseDt_iso": "2026-06-05T10:00:00+09:00",
+      "_hours_remaining": 985.0
+    },
+    {
+      "bidNtceNo": "R26BK01484400",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "지능형 무역투자 플랫폼 구축",
+      "ntceInsttNm": "조달청 서울지방조달청",
+      "ntceInsttCd": "1230121",
+      "dminsttNm": "대한무역투자진흥공사",
+      "dminsttCd": "B410001",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "Y",
+      "bidNtceDt": "2026-04-24 17:57:47",
+      "bidBeginDt": "2026-06-02 10:00:00",
+      "bidClseDt": "2026-06-05 10:00:00",
+      "opengDt": "2026-06-05 11:00:00",
+      "asignBdgtAmt": "21092910000",
+      "presmptPrce": "19090909091",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01484400&bidPbancOrd=000",
+      "ntceInsttOfclNm": "장기순",
+      "ntceInsttOfclTelNo": "02-590-8884",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
+      "first_seen_date": "2026-04-25",
+      "last_seen_date": "2026-04-25",
+      "matched_keywords": [
+        "투자"
+      ],
+      "_bidClseDt_iso": "2026-06-05T10:00:00+09:00",
+      "_hours_remaining": 985.0
     },
     {
       "bidNtceNo": "R26BK01474950",
@@ -5538,7 +5666,7 @@
       "ntceInsttOfclTelNo": "02-6009-3381",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
@@ -5570,7 +5698,7 @@
       "ntceInsttOfclTelNo": "061-820-1491",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
@@ -5602,7 +5730,7 @@
       "ntceInsttOfclTelNo": "053-850-3562",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
@@ -5666,7 +5794,7 @@
       "ntceInsttOfclTelNo": "***********",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(엔지니어링)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "AI"
       ],
@@ -5794,7 +5922,7 @@
       "ntceInsttOfclTelNo": "052-228-6723",
       "sucsfbidMthdNm": "설계공모-제안설계공모",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "모델링"
       ],
@@ -5922,7 +6050,7 @@
       "ntceInsttOfclTelNo": "02-2179-1121",
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
       "first_seen_date": "2026-04-24",
-      "last_seen_date": "2026-04-24",
+      "last_seen_date": "2026-04-25",
       "matched_keywords": [
         "투자"
       ],
@@ -6025,7 +6153,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-24T14:00:00+09:00",
-      "_hours_remaining": -3.8
+      "_hours_remaining": -19.0
     },
     {
       "bidNtceNo": "R26BK01476294",
@@ -6057,7 +6185,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-24T14:00:00+09:00",
-      "_hours_remaining": -3.8
+      "_hours_remaining": -19.0
     },
     {
       "bidNtceNo": "R26BK01476294",
@@ -6089,7 +6217,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-24T14:00:00+09:00",
-      "_hours_remaining": -3.8
+      "_hours_remaining": -19.0
     },
     {
       "bidNtceNo": "R26BK01485636",
@@ -6121,7 +6249,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-24T12:00:00+09:00",
-      "_hours_remaining": -5.8
+      "_hours_remaining": -21.0
     },
     {
       "bidNtceNo": "R26BK01482225",
@@ -6153,7 +6281,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-24T11:00:00+09:00",
-      "_hours_remaining": -6.8
+      "_hours_remaining": -22.0
     },
     {
       "bidNtceNo": "R26BK01484783",
@@ -6185,7 +6313,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-23T18:00:00+09:00",
-      "_hours_remaining": -23.8
+      "_hours_remaining": -39.0
     },
     {
       "bidNtceNo": "R26BK01483102",
@@ -6217,7 +6345,7 @@
         "딥러닝"
       ],
       "_bidClseDt_iso": "2026-04-23T14:30:00+09:00",
-      "_hours_remaining": -27.3
+      "_hours_remaining": -42.5
     },
     {
       "bidNtceNo": "R26BK01483287",
@@ -6249,7 +6377,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-23T14:00:00+09:00",
-      "_hours_remaining": -27.8
+      "_hours_remaining": -43.0
     },
     {
       "bidNtceNo": "R26BK01480997",
@@ -6281,7 +6409,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-23T12:00:00+09:00",
-      "_hours_remaining": -29.8
+      "_hours_remaining": -45.0
     },
     {
       "bidNtceNo": "R26BK01477141",
@@ -6314,7 +6442,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-23T12:00:00+09:00",
-      "_hours_remaining": -29.8
+      "_hours_remaining": -45.0
     },
     {
       "bidNtceNo": "R26BK01479393",
@@ -6346,7 +6474,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-23T12:00:00+09:00",
-      "_hours_remaining": -29.8
+      "_hours_remaining": -45.0
     },
     {
       "bidNtceNo": "R26BK01481539",
@@ -6378,7 +6506,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-22T16:00:00+09:00",
-      "_hours_remaining": -49.8
+      "_hours_remaining": -65.0
     },
     {
       "bidNtceNo": "R26BK01474445",
@@ -6410,7 +6538,7 @@
         "빅데이터"
       ],
       "_bidClseDt_iso": "2026-04-22T15:00:00+09:00",
-      "_hours_remaining": -50.8
+      "_hours_remaining": -66.0
     },
     {
       "bidNtceNo": "R26BK01473951",
@@ -6442,7 +6570,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-22T14:00:00+09:00",
-      "_hours_remaining": -51.8
+      "_hours_remaining": -67.0
     },
     {
       "bidNtceNo": "R26BK01473011",
@@ -6474,7 +6602,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-22T12:00:00+09:00",
-      "_hours_remaining": -53.8
+      "_hours_remaining": -69.0
     },
     {
       "bidNtceNo": "R26BK01479217",
@@ -6506,7 +6634,7 @@
         "투자"
       ],
       "_bidClseDt_iso": "2026-04-22T11:00:00+09:00",
-      "_hours_remaining": -54.8
+      "_hours_remaining": -70.0
     },
     {
       "bidNtceNo": "R26BK01475125",
@@ -6538,7 +6666,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-21T15:00:00+09:00",
-      "_hours_remaining": -74.8
+      "_hours_remaining": -90.0
     },
     {
       "bidNtceNo": "R26BK01477065",
@@ -6570,7 +6698,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-21T15:00:00+09:00",
-      "_hours_remaining": -74.8
+      "_hours_remaining": -90.0
     },
     {
       "bidNtceNo": "R26BK01475935",
@@ -6602,7 +6730,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-21T14:20:00+09:00",
-      "_hours_remaining": -75.5
+      "_hours_remaining": -90.7
     },
     {
       "bidNtceNo": "R26BK01476187",
@@ -6634,7 +6762,7 @@
         "모델링"
       ],
       "_bidClseDt_iso": "2026-04-21T11:00:00+09:00",
-      "_hours_remaining": -78.8
+      "_hours_remaining": -94.0
     },
     {
       "bidNtceNo": "R26BK01475935",
@@ -6666,7 +6794,7 @@
         "AI"
       ],
       "_bidClseDt_iso": "2026-04-21T10:00:00+09:00",
-      "_hours_remaining": -79.8
+      "_hours_remaining": -95.0
     },
     {
       "bidNtceNo": "R26BK01449166",
@@ -6700,7 +6828,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-21T10:00:00+09:00",
-      "_hours_remaining": -79.8
+      "_hours_remaining": -95.0
     },
     {
       "bidNtceNo": "R26BK01475402",
@@ -6732,7 +6860,7 @@
         "예측"
       ],
       "_bidClseDt_iso": "2026-04-20T15:00:00+09:00",
-      "_hours_remaining": -98.8
+      "_hours_remaining": -114.0
     }
   ]
 }
