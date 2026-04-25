@@ -16,15 +16,24 @@
     "연금"
   ],
   "exclude_keywords": [],
+  "service_divs": ["일반용역", "기술용역"],
   "lookback_days": 1,
   "keep_days": 60,
   "match_mode": "any",
   "case_sensitive": false,
+  "relevance_filter": {
+    "enabled": false,
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "min_score": 3,
+    "rate_limit_delay_seconds": 0.2,
+    "context": "AI/생성형 AI/LLM, 디지털 헬스케어, 의료·임상 데이터 분석, 의약품·바이오 연구개발, 디지털 치료기기(DTx), AI 인재양성/교원연수/AI 리터러시 교육, 정부 지원사업(RISE, AX 대학원, AI 중심대학, IITP) 관련 컨설팅·연구·시스템 구축, 한국 주식·금융 데이터 분석/예측 시스템. 다음은 무관: 건물 리모델링·건축공사·청소·방역·시설관리·임대·인쇄·차량 등 본업이 토목·건축·시설인 공고."
+  },
   "api": {
     "endpoint": "https://apis.data.go.kr/1230000/ad/BidPublicInfoService",
     "operation": "getBidPblancListInfoServcPPSSrch",
     "num_of_rows": 500,
     "max_pages": 20
   },
-  "comment": "keywords: 공고명(bidNtceNm)에 포함되어야 하는 단어 목록. match_mode=any 는 각 키워드로 API를 순회 검색해 합침. all 은 첫 키워드로 검색 후 나머지 키워드가 모두 포함된 항목만 로컬에서 필터. exclude_keywords 는 항상 로컬 필터. lookback_days=1 은 최근 1일 범위 조회. keep_days 는 대시보드에서 유지하는 일수. 오퍼레이션 getBidPblancListInfoServcPPSSrch 는 용역 입찰공고를 bidNtceNm 부분검색으로 조회."
+  "comment": "keywords: 공고명(bidNtceNm)에 포함되어야 하는 단어 목록. match_mode=any 는 각 키워드로 API를 순회 검색해 합침. all 은 첫 키워드로 검색 후 나머지 키워드가 모두 포함된 항목만 로컬에서 필터. exclude_keywords 는 항상 로컬 필터. service_divs 는 srvceDivNm(용역구분명) 화이트리스트로 정확히 일치하는 항목만 통과 (빈 배열이면 필터 안 함). relevance_filter 는 LLM(OpenAI/Anthropic)으로 0-5점 관련성을 평가해 min_score 미만을 제거 (enabled=true + API 키 + context 필요). lookback_days=1 은 최근 1일 범위 조회. keep_days 는 대시보드에서 유지하는 일수. 오퍼레이션 getBidPblancListInfoServcPPSSrch 는 용역 입찰공고를 bidNtceNm 부분검색으로 조회."
 }

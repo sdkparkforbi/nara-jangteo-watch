@@ -29,7 +29,18 @@ except Exception:
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.json"
 DATA_DIR = ROOT / "data"
+CACHE_PATH = DATA_DIR / "_relevance_cache.json"
 OUT_PATH = ROOT / "docs" / "data" / "index.json"
+
+
+def load_relevance_cache() -> dict:
+    if not CACHE_PATH.exists():
+        return {}
+    try:
+        with CACHE_PATH.open(encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
 
 
 def parse_bid_dt(s: str) -> datetime | None:
@@ -84,7 +95,15 @@ def match_keywords(title: str, keywords: list[str], case_sensitive: bool) -> lis
     return [kw for kw in keywords if (kw if case_sensitive else kw.lower()) in haystack]
 
 
-def merge_all(files: list[Path], keywords: list[str], case_sensitive: bool) -> list[dict]:
+def merge_all(
+    files: list[Path],
+    keywords: list[str],
+    case_sensitive: bool,
+    service_divs: list[str] | None = None,
+    relevance_cache: dict | None = None,
+) -> list[dict]:
+    div_set = set(service_divs) if service_divs else None
+    cache = relevance_cache or {}
     merged: dict[str, dict] = {}
     for path in files:
         try:
@@ -94,6 +113,10 @@ def merge_all(files: list[Path], keywords: list[str], case_sensitive: bool) -> l
             continue
         collected_at = payload.get("date") or path.stem
         for item in payload.get("items", []):
+            if div_set is not None:
+                div = str(item.get("srvceDivNm") or "").strip()
+                if div not in div_set:
+                    continue
             key = f"{item.get('bidNtceNo')}-{item.get('bidNtceOrd')}"
             merged_item = dict(item)
             existing_seen = merged.get(key, {}).get("first_seen_date", collected_at)
@@ -104,6 +127,10 @@ def merge_all(files: list[Path], keywords: list[str], case_sensitive: bool) -> l
             merged_item["matched_keywords"] = match_keywords(
                 str(item.get("bidNtceNm") or ""), keywords, case_sensitive,
             )
+            score_entry = cache.get(key)
+            if score_entry:
+                merged_item["_relevance_score"] = score_entry.get("score")
+                merged_item["_relevance_reason"] = score_entry.get("reason", "")
             merged[key] = merged_item
     return list(merged.values())
 
@@ -154,11 +181,40 @@ def main() -> int:
     keep_days = int(cfg.get("keep_days", 60))
     keywords = [k.strip() for k in cfg.get("keywords", []) if k and k.strip()]
     case_sensitive = bool(cfg.get("case_sensitive", False))
+    service_divs = [v.strip() for v in cfg.get("service_divs", []) if v and v.strip()]
+    rf = cfg.get("relevance_filter") or {}
+    rf_enabled = bool(rf.get("enabled", False))
+    min_score = int(rf.get("min_score", 0)) if rf_enabled else None
+
     files = iter_daily_files(keep_days)
     print(f"사용할 일별 파일: {len(files)}개")
+    if service_divs:
+        print(f"용역구분 화이트리스트(srvceDivNm): {service_divs}")
 
-    merged = merge_all(files, keywords, case_sensitive)
-    print(f"고유 공고 총합: {len(merged)}건")
+    cache = load_relevance_cache() if rf_enabled else {}
+    if rf_enabled:
+        print(f"관련성 캐시: {len(cache)}건 / min_score={min_score}")
+
+    merged = merge_all(files, keywords, case_sensitive, service_divs, cache)
+    print(f"고유 공고 총합 (관련성 필터 전): {len(merged)}건")
+
+    # 관련성 필터 적용 (점수 없는 항목은 통과시킴 — 실패해도 데이터를 잃지 않음)
+    skipped_low = 0
+    skipped_unscored = 0
+    if rf_enabled and min_score is not None:
+        kept: list[dict] = []
+        for it in merged:
+            sc = it.get("_relevance_score")
+            if sc is None:
+                kept.append(it)
+                skipped_unscored += 1  # 통계용 — 통과는 시킴
+                continue
+            if sc < min_score:
+                skipped_low += 1
+                continue
+            kept.append(it)
+        merged = kept
+        print(f"관련성 필터 적용 후: {len(merged)}건 (저점수 제외 {skipped_low}, 미평가 통과 {skipped_unscored})")
 
     open_list, soon_list, closed_list = classify(merged)
 
@@ -167,8 +223,15 @@ def main() -> int:
         "config": {
             "keywords": cfg.get("keywords", []),
             "exclude_keywords": cfg.get("exclude_keywords", []),
+            "service_divs": service_divs,
             "match_mode": cfg.get("match_mode", "any"),
             "keep_days": keep_days,
+            "relevance_filter": {
+                "enabled": rf_enabled,
+                "min_score": min_score,
+                "model": rf.get("model") if rf_enabled else None,
+                "provider": rf.get("provider") if rf_enabled else None,
+            },
         },
         "stats": {
             "open": len(open_list),

@@ -194,6 +194,58 @@ main { padding: 28px 0 48px; }
   color: var(--accent);
 }
 
+.div-badge {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border: 1px solid transparent;
+}
+.div-badge.general {
+  background: rgba(88, 166, 255, 0.12);
+  color: var(--accent);
+  border-color: rgba(88, 166, 255, 0.3);
+}
+.div-badge.tech {
+  background: rgba(63, 185, 80, 0.12);
+  color: var(--good);
+  border-color: rgba(63, 185, 80, 0.3);
+}
+
+.score-badge {
+  font-size: 11px;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-weight: 700;
+  cursor: help;
+  border: 1px solid transparent;
+  letter-spacing: 0.02em;
+}
+.score-badge.high {
+  background: rgba(63, 185, 80, 0.15);
+  color: var(--good);
+  border-color: rgba(63, 185, 80, 0.35);
+}
+.score-badge.mid {
+  background: rgba(240, 136, 62, 0.12);
+  color: var(--warn);
+  border-color: rgba(240, 136, 62, 0.3);
+}
+.score-badge.low {
+  background: rgba(255, 123, 114, 0.10);
+  color: var(--danger);
+  border-color: rgba(255, 123, 114, 0.25);
+}
+.relevance-reason {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+  padding-left: 8px;
+  border-left: 2px solid var(--border);
+  font-style: italic;
+}
+
 .list { display: flex; flex-direction: column; gap: 10px; }
 
 .card {

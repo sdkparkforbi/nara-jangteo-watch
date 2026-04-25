@@ -47,6 +47,13 @@ jobs:
             python scripts/crawl.py
           fi
 
+      - name: 관련성 점수 평가 (LLM)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: Asia/Seoul
+        run: python scripts/score_relevance.py
+
       - name: 대시보드 인덱스 생성
         env:
           TZ: Asia/Seoul

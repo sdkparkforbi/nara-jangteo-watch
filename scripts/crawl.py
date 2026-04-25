@@ -59,6 +59,7 @@ _load_dotenv(ROOT / ".env")
 class Config:
     keywords: list[str]
     exclude_keywords: list[str]
+    service_divs: list[str]
     lookback_days: int
     match_mode: str
     case_sensitive: bool
@@ -75,6 +76,7 @@ class Config:
         return cls(
             keywords=[k.strip() for k in raw.get("keywords", []) if k and k.strip()],
             exclude_keywords=[k.strip() for k in raw.get("exclude_keywords", []) if k and k.strip()],
+            service_divs=[v.strip() for v in raw.get("service_divs", []) if v and v.strip()],
             lookback_days=int(raw.get("lookback_days", 1)),
             match_mode=raw.get("match_mode", "any"),
             case_sensitive=bool(raw.get("case_sensitive", False)),
@@ -176,6 +178,14 @@ def contains_kw(text: str, kw: str, case_sensitive: bool) -> bool:
 
 def is_excluded(text: str, cfg: Config) -> bool:
     return any(contains_kw(text, kw, cfg.case_sensitive) for kw in cfg.exclude_keywords)
+
+
+def passes_service_div(item: dict, cfg: Config) -> bool:
+    """srvceDivNm(용역구분명) 화이트리스트 필터. 빈 리스트면 항상 통과."""
+    if not cfg.service_divs:
+        return True
+    val = str(item.get("srvceDivNm") or "").strip()
+    return val in cfg.service_divs
 
 
 def all_keywords_match(text: str, cfg: Config) -> bool:
@@ -305,6 +315,8 @@ def main() -> int:
     print(f"키워드({cfg.match_mode}): {cfg.keywords or '(없음 → 전체 조회)'}")
     if cfg.exclude_keywords:
         print(f"제외 키워드: {cfg.exclude_keywords}")
+    if cfg.service_divs:
+        print(f"용역구분 화이트리스트(srvceDivNm): {cfg.service_divs}")
     print()
 
     # API 호출 전략:
@@ -335,16 +347,22 @@ def main() -> int:
     print(f"\n전체 중복제거 후 원본: {len(merged_raw)}건")
 
     filtered: list[dict] = []
+    skipped_div = 0
     for raw in merged_raw.values():
         title = str(raw.get("bidNtceNm") or "")
         if not title:
             continue
         if is_excluded(title, cfg):
             continue
+        if not passes_service_div(raw, cfg):
+            skipped_div += 1
+            continue
         if cfg.match_mode == "all" and cfg.keywords and not all_keywords_match(title, cfg):
             continue
         filtered.append(normalize_item(raw))
 
+    if cfg.service_divs:
+        print(f"용역구분 필터 제외: {skipped_div}건")
     print(f"최종 매치: {len(filtered)}건")
 
     if args.dry_run:

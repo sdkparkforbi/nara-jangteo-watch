@@ -41,6 +41,7 @@
 {
   "keywords": ["AI", "인공지능", "머신러닝", "LLM"],
   "exclude_keywords": ["교육", "연수"],
+  "service_divs": ["일반용역", "기술용역"],
   "lookback_days": 1,
   "keep_days": 60,
   "match_mode": "any",
@@ -51,8 +52,55 @@
 - `match_mode: "any"` — 키워드 중 하나라도 공고명에 있으면 수집 (권장, 빠름)
 - `match_mode: "all"` — 모든 키워드가 공고명에 들어가 있어야 수집 (매우 좁음)
 - `exclude_keywords` — 공고명에 포함되면 제외할 단어
+- `service_divs` — 용역구분(`srvceDivNm`) 화이트리스트. 정확히 일치하는 항목만 통과. 예: `["일반용역", "기술용역"]` 로 두면 `일반용역(리스)` 등은 자동 제외. 빈 배열(`[]`)이면 필터하지 않음.
+- `relevance_filter` — LLM 기반 관련성 평가 (선택). 자세한 설정은 아래 [LLM 관련성 필터](#llm-관련성-필터) 참고.
 - `lookback_days` — 매 실행 시 최근 며칠치를 조회할지 (기본 1)
 - `keep_days` — 대시보드에서 보여줄 데이터 보관 기간 (기본 60일)
+
+## LLM 관련성 필터
+
+키워드 부분매칭은 recall은 높지만 precision이 낮습니다 — "리모델링" 안의 "모델",
+"가천대 AI타워 신축공사" 같은 노이즈가 들어옵니다. LLM에게 0-5점 관련성 점수를
+받아서 `min_score` 미만을 제거하면 깔끔해집니다.
+
+`config.json` 의 `relevance_filter` 블록:
+
+```json
+{
+  "relevance_filter": {
+    "enabled": true,
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "min_score": 3,
+    "rate_limit_delay_seconds": 0.2,
+    "context": "본인의 관심 분야를 자연어로 서술. 예: 'AI/생성형 AI, 디지털 헬스케어, ...'"
+  }
+}
+```
+
+- `enabled` — true 면 매 빌드마다 평가/필터 적용
+- `provider` — `"openai"` 또는 `"anthropic"`
+- `model` — 예: `gpt-4o-mini` (저렴), `gpt-4o`, `claude-haiku-4-5-20251001`
+- `min_score` — 0-5. 이 점수 미만은 대시보드에서 제외 (점수 미평가는 통과)
+- `context` — **가장 중요**. 본인 관심 분야와 무관 분야를 자연어로 명시할수록 정확도 ↑
+
+API 키는 GitHub Secrets 에 `OPENAI_API_KEY` 또는 `ANTHROPIC_API_KEY` 로 등록.
+로컬 테스트는 `.env` 에 같은 이름으로 추가.
+
+평가 결과는 `data/_relevance_cache.json` 에 캐시되어 같은 공고는 재호출하지 않습니다.
+60일 (keep_days) 지난 공고는 캐시에서 자동 정리됩니다.
+
+수동 실행:
+
+```bash
+python scripts/score_relevance.py --dry-run     # 평가 대상만 확인
+python scripts/score_relevance.py --limit 10    # 최대 10건만 (테스트)
+python scripts/score_relevance.py --rescore-all # 캐시 무시하고 전부 재평가 (context 바꾼 후)
+python scripts/score_relevance.py               # 미평가 공고만 (일반 사용)
+```
+
+**비용 추정** (gpt-4o-mini 기준): 공고당 ~$0.00007. 200건 백필 ≈ $0.014, 이후 신규
+30건/일 ≈ $0.002/일. **월 $0.5 미만** 수준.
 
 ## 초기 설정
 

@@ -64,6 +64,14 @@
     const method = [item.bidMethdNm, item.cntrctCnclsMthdNm].filter(Boolean).join(" / ");
     const kind = item.ntceKindNm && item.ntceKindNm !== "일반" ? item.ntceKindNm : "";
     const matched = Array.isArray(item.matched_keywords) ? item.matched_keywords : [];
+    const srvceDiv = item.srvceDivNm || "";
+    const divCls = srvceDiv === "기술용역" ? "tech" : srvceDiv === "일반용역" ? "general" : "";
+    const score = item._relevance_score;
+    const reason = item._relevance_reason || "";
+    const scoreCls = score >= 4 ? "high" : score >= 3 ? "mid" : "low";
+    const scoreHtml = (typeof score === "number")
+      ? `<span class="score-badge ${scoreCls}" title="${escapeHtml(reason)}">★${score}</span>`
+      : "";
 
     let cardCls = "card";
     if (remaining.cls === "danger" || remaining.cls === "warn") cardCls += " soon";
@@ -77,12 +85,15 @@
       <article class="${cardCls}">
         <h3 class="card-title"><a href="${url}" target="_blank" rel="noopener">${escapeHtml(title)}</a></h3>
         <div class="card-meta">
+          ${scoreHtml}
+          ${srvceDiv ? `<span class="div-badge ${divCls}">${escapeHtml(srvceDiv)}</span>` : ""}
           ${kind ? `<span class="tag">${escapeHtml(kind)}</span>` : ""}
           ${org ? `<span><strong>공고기관</strong> ${escapeHtml(org)}</span>` : ""}
           ${demander ? `<span><strong>수요기관</strong> ${escapeHtml(demander)}</span>` : ""}
           ${method ? `<span><strong>입찰방식</strong> ${escapeHtml(method)}</span>` : ""}
           <span><strong>공고번호</strong> ${escapeHtml(item.bidNtceNo || "")}${item.bidNtceOrd ? "-" + escapeHtml(item.bidNtceOrd) : ""}</span>
         </div>
+        ${reason ? `<div class="relevance-reason">${escapeHtml(reason)}</div>` : ""}
         ${matchedHtml}
         <div class="card-bottom">
           <span class="remaining ${remaining.cls}">${remaining.text}</span>
