@@ -22,7 +22,7 @@
   "match_mode": "any",
   "case_sensitive": false,
   "relevance_filter": {
-    "enabled": false,
+    "enabled": true,
     "provider": "openai",
     "model": "gpt-4o-mini",
     "min_score": 3,
