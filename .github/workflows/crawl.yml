@@ -10,6 +10,16 @@ on:
         description: "최근 며칠치를 조회할까요?"
         required: false
         default: "1"
+  # 코드/스타일 변경 푸시 시 자동 빌드·배포.
+  # paths-ignore 로 자동 데이터 커밋(chore(data): ...)은 무시 → 무한 루프 방지.
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
+      - 'docs/data/**'
+      - '*.md'
+      - 'LICENSE'
+      - '.gitignore'
 
 permissions:
   contents: write
