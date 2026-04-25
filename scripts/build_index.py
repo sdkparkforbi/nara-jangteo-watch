@@ -135,6 +135,40 @@ def merge_all(
     return list(merged.values())
 
 
+def dedup_by_bid_no(items: list[dict]) -> tuple[list[dict], int]:
+    """같은 bidNtceNo 그룹에서 bidNtceOrd 가 가장 큰(최신 차수) 항목만 남긴다.
+
+    Returns:
+        (남은 항목 리스트, 제거된 항목 수)
+    """
+    # bidNtceNo 별로 가장 큰 차수의 항목을 추적
+    latest: dict[str, dict] = {}
+    for it in items:
+        bid_no = str(it.get("bidNtceNo") or "")
+        if not bid_no:
+            # 공고번호 없는 항목은 그냥 통과 (방어적 처리)
+            latest[f"_no_id_{id(it)}"] = it
+            continue
+        # bidNtceOrd 는 보통 "000", "001" 같은 문자열 — 정수 비교 위해 변환
+        try:
+            ord_n = int(it.get("bidNtceOrd") or 0)
+        except (ValueError, TypeError):
+            ord_n = 0
+        prev = latest.get(bid_no)
+        if prev is None:
+            latest[bid_no] = it
+            continue
+        try:
+            prev_ord = int(prev.get("bidNtceOrd") or 0)
+        except (ValueError, TypeError):
+            prev_ord = 0
+        if ord_n > prev_ord:
+            latest[bid_no] = it
+    kept = list(latest.values())
+    removed = len(items) - len(kept)
+    return kept, removed
+
+
 SOON_THRESHOLD_DAYS = 7
 
 
@@ -215,6 +249,11 @@ def main() -> int:
             kept.append(it)
         merged = kept
         print(f"관련성 필터 적용 후: {len(merged)}건 (저점수 제외 {skipped_low}, 미평가 통과 {skipped_unscored})")
+
+    # 같은 bidNtceNo 내 최신 차수만 남기기 (재제출/취소공고 정리)
+    merged, removed_dup = dedup_by_bid_no(merged)
+    if removed_dup > 0:
+        print(f"중복 차수 제거 후: {len(merged)}건 (구 차수 {removed_dup}건 제거)")
 
     open_list, soon_list, closed_list = classify(merged)
 
