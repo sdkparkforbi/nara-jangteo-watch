@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-04-26T09:03:44+09:00",
+  "date": "2026-04-26",
+  "count": 1,
+  "items": [
+    {
+      "bidNtceNo": "R26BK01488932",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "국방 AI 신속적용을 위한 국방 핵심기술 데이터레이크 구축방안 연구",
+      "ntceInsttNm": "국방기술진흥연구소",
+      "ntceInsttCd": "Z042027",
+      "dminsttNm": "국방기술진흥연구소",
+      "dminsttCd": "Z042027",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-04-25 16:16:44",
+      "bidBeginDt": "2026-04-29 10:00:00",
+      "bidClseDt": "2026-05-07 15:00:00",
+      "opengDt": "2026-05-07 16:00:00",
+      "asignBdgtAmt": "80000000",
+      "presmptPrce": "72727273",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01488932&bidPbancOrd=000",
+      "ntceInsttOfclNm": "김형태",
+      "ntceInsttOfclTelNo": "055-751-4434",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정"
+    }
+  ]
+}
