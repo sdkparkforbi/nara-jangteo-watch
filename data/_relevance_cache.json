@@ -734,6 +734,13 @@
     "score": 5,
     "scored_at": "2026-04-25T19:00:53+09:00"
   },
+  "R26BK01480552-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "RISE 사업의 AI 시스템 구축 연구용역으로 RISE 관련 컨설팅·시스템 구축에 직접 관련",
+    "score": 5,
+    "scored_at": "2026-04-27T09:05:36+09:00"
+  },
   "R26BK01480575-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -957,6 +964,13 @@
     "reason": "AI 시스템 개발이라는 기술적 유사성은 있으나 위성 분야로 의료·금융과 직접 무관",
     "score": 3,
     "scored_at": "2026-04-25T19:00:53+09:00"
+  },
+  "R26BK01481918-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "RISE 사업의 AI 플랫폼·엔진 구축으로 AI 시스템 구축·컨설팅과 연관됨",
+    "score": 4,
+    "scored_at": "2026-04-27T09:05:36+09:00"
   },
   "R26BK01482183-000": {
     "model": "gpt-5-mini",
@@ -1496,5 +1510,19 @@
     "reason": "AI 데이터레이크 구축 연구로 AI 시스템·데이터 구축 역량에 직접 관련",
     "score": 5,
     "scored_at": "2026-04-25T19:00:53+09:00"
+  },
+  "R26BK01489130-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 포함으로 부분적 관련성 있으나 외교·국방 중심이라 제한적",
+    "score": 3,
+    "scored_at": "2026-04-27T09:05:36+09:00"
+  },
+  "R26BK01489158-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "제주어 AI 고도화로 LLM/생성형 AI 연구·시스템 구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-04-27T09:05:36+09:00"
   }
 }
