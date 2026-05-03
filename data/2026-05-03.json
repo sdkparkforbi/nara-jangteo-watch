@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-05-03T09:08:41+09:00",
+  "date": "2026-05-03",
+  "count": 1,
+  "items": [
+    {
+      "bidNtceNo": "R26BK01501158",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "디자인 AI 인프라 건축공사 감리용역(상주)",
+      "ntceInsttNm": "재단법인 대구경북디자인진흥원",
+      "ntceInsttCd": "Z014088",
+      "dminsttNm": "재단법인 대구경북디자인진흥원",
+      "dminsttCd": "Z014088",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-05-02 11:41:36",
+      "bidBeginDt": "2026-05-03 09:00:00",
+      "bidClseDt": "2026-05-08 14:00:00",
+      "opengDt": "2026-05-08 15:00:00",
+      "asignBdgtAmt": "345358686",
+      "presmptPrce": "313962442",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01501158&bidPbancOrd=000",
+      "ntceInsttOfclNm": "서석홍",
+      "ntceInsttOfclTelNo": "053-740-0017",
+      "sucsfbidMthdNm": "적격심사제-추정가격이 5억원 미만 2억원 이상인 P.Q비대상 기술용역의 평가기준"
+    }
+  ]
+}
