@@ -1203,6 +1203,13 @@
     "score": 3,
     "scored_at": "2026-04-25T19:00:53+09:00"
   },
+  "R26BK01484035-001": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "연금 자산운용 공고로 금융·주식 데이터 분석과 일부 관련",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
   "R26BK01484043-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -2771,6 +2778,13 @@
     "score": 3,
     "scored_at": "2026-04-30T10:16:04+09:00"
   },
+  "R26BK01497364-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "투자수익률·보증요율 개선은 금융 데이터 분석 역량과 연관",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
   "R26BK01497624-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -3065,6 +3079,13 @@
     "score": 4,
     "scored_at": "2026-05-01T09:13:42+09:00"
   },
+  "R26BK01500141-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "소상공인 금융데이터 분석 수요로 금융 데이터 역량과 관련",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
   "R26BK01500251-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -3331,6 +3352,13 @@
     "score": 0,
     "scored_at": "2026-05-05T10:11:31+09:00"
   },
+  "R26BK01502260-001": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "건물 그린리모델링 건축설계로 AI·의료 등 관심 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
   "R26BK01502297-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -3379,6 +3407,13 @@
     "reason": "금융 전산·보안 컨설팅으로 금융 데이터 시스템 관련성 있음",
     "score": 3,
     "scored_at": "2026-05-05T10:11:31+09:00"
+  },
+  "R26BK01502524-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 기사 플랫폼 구축 용역으로 AI·시스템 구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
   },
   "R26BK01502676-000": {
     "model": "gpt-5-mini",
@@ -3435,5 +3470,425 @@
     "reason": "투자기업 발굴 플랫폼 운영은 정부지원사업·시스템 구축과 연관",
     "score": 4,
     "scored_at": "2026-05-06T09:12:45+09:00"
+  },
+  "R26BK01503675-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "공간정보 기반 AI 재난 분석·통합 모니터링 시스템 구축으로 AI 개발·구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01503708-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "중소·중견 제조기업 대상 AI 교육으로 AI 인재양성·교육 분야와 직접적 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01503768-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 행정혁신 포럼 운영으로 정책·교육·컨설팅과 연관",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01503844-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI·시계열 분석 기술은 유사하나 도메인(농업)이 다름",
+    "score": 2,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01503897-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 인프라 구축 타당성 조사로 AI 컨설팅·연구·시스템 구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01503897-001": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 시스템 구축 타당성 조사로 AI 컨설팅·시스템구축에 매우 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01503970-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "기업유치·글로벌 네트워크 운영이 주업무라 AI·헬스 기술적 연관성은 약함",
+    "score": 2,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504042-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "카자흐스탄 AI 인프라 구축 타당성 조사로 AI 시스템 구축·컨설팅 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504065-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "금융 분야지만 내부 재무관리 컨설팅이라 관심분야와 일부만 겹침",
+    "score": 2,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504079-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 정부 전화상담 허브 BPR/ISP로 시스템 구축·컨설팅에 적합",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504276-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "재무·회계 분야로 금융 데이터·분석 시스템 제공과 부분적 연관성 있음",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504278-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 예측모델 개발로 기술 유사하나 도메인은 농업으로 부분적 관련",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504297-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "생성형 AI 기반 대화형 플랫폼 구축으로 AI·LLM 분야와 직접적 일치",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504342-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "기술·산업 동향·협업선호도 AI모델 구축은 AI·데이터 분석 및 시스템 구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504346-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "바이오빅데이터 사업 관련이나 홍보 운영으로 기술·연구 직접 수행은 아님",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504357-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "보고서 자동생성·전략지원 AI 모델 구축은 AI/LLM·시스템구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504375-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 플랫폼 구축으로 AI 시스템 개발·정부 사업 시스템 구축과 직접 연관",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504390-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "토목·도시개발 관련 재해영향평가로 AI·헬스 등 관심분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504535-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 소프트웨어 커스터마이징으로 AI/LLM·시스템 구축 분야와 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504547-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 맞춤형 큐레이션은 LLM·AI 시스템 구축·컨설팅과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504590-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "전망대 건축 기본·실시설계 용역으로 AI·의료 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504631-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "건축 그린리모델링 설계로 AI·의료·데이터 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504711-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 영향평가·위험관리 정책연구로 AI 거버넌스·컨설팅과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504755-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "건설 리모델링 및 폐기물 처리 업무로 AI·디지털헬스 등과 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504821-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "학교 리모델링 및 폐기물 처리 용역으로 관심 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504938-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 R&D 기획·시스템 구축 관련, 분야는 해양",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01504982-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "해양·기후 R&D로 의료·바이오·AI·금융 중심 관심과는 약하게만 겹침",
+    "score": 2,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505129-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 공익데이터·법제화 연구로 AI 정책·컨설팅 분야와 매우 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505129-001": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 공익데이터 활용·법제화 연구로 AI 정책·컨설팅 분야에 직접적 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505225-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "원자력 선박 엔지니어링으로 AI·바이오·헬스 등과 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505284-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "인체 오믹스 기반 AI 안전성평가 기획은 의료데이터·바이오 R&D와 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505299-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 전환의 고용영향 분석 연구로 AI 정책·연구·컨설팅과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505299-001": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 전환의 고용영향 분석은 AI 정책·연구·컨설팅과 직접적 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505341-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 암호화 기술 개발로 사용자의 AI 시스템 구축·연구 관심과 연관",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505432-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 연수 목적이나 실제 공고는 연수시설 임차(임대)로 본업 불일치",
+    "score": 1,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505474-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 데이터 품질관리·홍수예측은 사용자의 AI·시스템 구축 관심과 부합",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505548-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "야생동물 질병 예찰 연구로 바이오·데이터 분석과 일부 연관",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505561-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "생성형 AI 기반 R&D 지원 서비스 구축 감리로 매우 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505586-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "금융 상담 음성녹취·전사·분석 관련, AI·금융데이터 경험 일부 활용 가능",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505591-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 모바일 전자고지 고도화로 AI 시스템 구축·컨설팅과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505593-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 인재양성·교육 운영 개선 연구로 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505639-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "교량(토목) 대상 AI 데이터셋으로 의료·바이오·금융 등과 직접적 연관성 없음",
+    "score": 1,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505899-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 환경(암모니아) 연구로 AI 구축 경험엔 일부 관련.",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01505947-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "건축물 수직증축 안전진단 용역으로 AI·의료·데이터 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506037-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 상태감지 모델 개발로 AI 시스템 구축·모델링과 관련",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506152-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "디지털 금융 보안 전략 컨설팅으로 금융 데이터·시스템 관련",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506177-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "수질·녹조 예측의 환경연구로 의료·디지털헬스·금융·AI 분야와 실질적 불일치",
+    "score": 1,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506320-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI·데이터 맞춤지원 사업으로 AI·데이터 컨설팅·구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506343-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "지형(DEM) 품질검사 SW로 의료·AI·금융 등 관심분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506359-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 예측 알고리즘 연구로 AI 컨설팅·시스템 구축과 관련",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506365-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI재단 홈페이지 운영이라 AI 시스템 구축·운영과 부분적 연관",
+    "score": 3,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506400-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 모델 기반 시스템 개발로 AI·정부 과제 컨설팅에 적합",
+    "score": 4,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506530-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "공원 리모델링·타당성 검토는 건축·조경 분야로 관련 없음",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506708-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "항공 LiDAR 지형측량·DEM 제작은 AI·의료 등 관심 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506822-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 플랫폼 구축 용역으로 시스템 구축·컨설팅에 매우 관련",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01506991-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 통합플랫폼 ISP 용역으로 AI 전략·시스템 구축 컨설팅과 직접 연관",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01507034-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 고용서비스 비용·편익·품질평가 연구로 AI 정책·연구·컨설팅에 적합",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01507075-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 활용 정책연구·컨설팅으로 정부 AI 컨설팅 분야와 일치",
+    "score": 5,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01507091-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "공공기관 재무컨설팅으로 AI·헬스 본업과는 약하게 관련",
+    "score": 2,
+    "scored_at": "2026-05-07T09:12:47+09:00"
+  },
+  "R26BK01507178-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "녹색금융 관련이나 홍보·마케팅 중심이라 데이터·AI 개발·연구와 직접적 연관이 적음",
+    "score": 2,
+    "scored_at": "2026-05-07T09:12:47+09:00"
   }
 }
