@@ -1259,6 +1259,13 @@
     "score": 5,
     "scored_at": "2026-04-25T19:00:53+09:00"
   },
+  "R26BK01484400-001": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 플랫폼 구축으로 AI·시스템 구축 역량과 연관됨",
+    "score": 4,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
   "R26BK01484409-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -4045,6 +4052,13 @@
     "score": 1,
     "scored_at": "2026-05-09T10:16:00+09:00"
   },
+  "R26BK01508181-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "미디어 AI 플랫폼 운영·유지보수는 AI 플랫폼 구축·운영 경험과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
   "R26BK01508255-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -4086,6 +4100,13 @@
     "reason": "AI 기반 모델링·데이터 분석·시스템구축 경험과 부분적 연관",
     "score": 3,
     "scored_at": "2026-05-08T10:17:31+09:00"
+  },
+  "R26BK01508379-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 활용 지방계약·포털 업무프로세스 재설계 연구로 매우 관련",
+    "score": 5,
+    "scored_at": "2026-05-11T10:23:01+09:00"
   },
   "R26BK01508577-000": {
     "model": "gpt-5-mini",
@@ -4450,5 +4471,61 @@
     "reason": "바이오 빅데이터 개인정보보호(ISMS-P) 컨설팅은 의료·임상 데이터·플랫폼 구축과 직접 연관됨",
     "score": 5,
     "scored_at": "2026-05-09T10:16:00+09:00"
+  },
+  "R26BK01512596-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "학교 건축·전기·통신 설계로 AI·의료 등과 무관",
+    "score": 0,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01512878-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "XAI 기반 조기경보 정량검증으로 AI·XAI 연구·시스템 구축에 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01513003-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "수요예측·DB분석은 AI/데이터 컨설팅·시스템 구축 역량과 연계됨",
+    "score": 4,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01513033-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "기후 예측 연구는 데이터·예측 모델과 겹쳐 AI 역량과 부분적 관련",
+    "score": 3,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01513039-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "생성형 AI 기반 시스템 구축 과제여서 AI 연구·시스템 구축 경험과 관련",
+    "score": 4,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01513119-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "국가 AI 연구거점 중장기 전략은 AI 연구·인재양성·정책과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01513147-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기능·접근성 개선 사업으로 AI/LLM·시스템 구축과 직결",
+    "score": 5,
+    "scored_at": "2026-05-11T10:23:01+09:00"
+  },
+  "R26BK01513345-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "철도 시스템 안전·예측 중심으로 의료/AI 컨설팅 분야와 부합하지 않음",
+    "score": 1,
+    "scored_at": "2026-05-11T10:23:01+09:00"
   }
 }
