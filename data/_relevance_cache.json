@@ -7552,6 +7552,13 @@
     "score": 5,
     "scored_at": "2026-05-23T10:23:23+09:00"
   },
+  "R26BK01538705-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "RISE 연계 AI 메이커스랩 운영으로 AI 인재양성·교육과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
   "R26BK01538735-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -7607,6 +7614,13 @@
     "reason": "AI 기반 시스템 구축 과제로 AI 개발·시스템 구축 역량과 매우 부합",
     "score": 5,
     "scored_at": "2026-05-23T10:23:23+09:00"
+  },
+  "R26BK01539133-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "한-아세안 AI 개발·창업 경진대회 운영은 AI 인재양성·창업지원과 직접 연관.",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
   },
   "R26BK01539162-000": {
     "model": "gpt-5-mini",
@@ -7803,5 +7817,68 @@
     "reason": "AI-Ready 데이터 가공·활용 연구로 AI/데이터 컨설팅 분야와 직접 관련",
     "score": 5,
     "scored_at": "2026-05-23T10:23:23+09:00"
+  },
+  "R26BK01541143-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 상담(LLM) 시스템 구축·컨설팅과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541185-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "창업기업 대상 생성형 AI/LLM 모델 개발 사업으로 매우 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541319-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "돌봄 인력 수요 예측 모형 고도화로 데이터·예측 분석 관련",
+    "score": 4,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541365-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 안전·신뢰 대규모 R&D 기획으로 AI/LLM·사업구축과 직접 연관",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541391-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 교육 성격으로 관련성 있으나 이커머스 중심임",
+    "score": 4,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541415-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "빅데이터 플랫폼 고도화·유지보수는 AI/데이터 분석 및 시스템구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541481-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 협업 인식·태도 조사로 AI 리터러시·정책·연구에 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541538-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "기술거래·사업화용 AI 구현 연구로 AI 시스템 연구·구축 및 컨설팅 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
+  },
+  "R26BK01541732-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "멀티미디어 AI R&D 사전기획으로 AI 연구·시스템 구축과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-05-26T10:26:02+09:00"
   }
 }
