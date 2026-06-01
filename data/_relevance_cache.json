@@ -7874,6 +7874,13 @@
     "score": 5,
     "scored_at": "2026-05-23T10:23:23+09:00"
   },
+  "R26BK01540922-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "국산 AI반도체 성능 평가로 AI 시스템·R&D·인프라에 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-01T10:39:42+09:00"
+  },
   "R26BK01541106-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -9029,6 +9036,13 @@
     "score": 0,
     "scored_at": "2026-05-30T10:28:17+09:00"
   },
+  "R26BK01551509-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "치안 AI 리더 양성은 AI 인재양성·교원연수 분야와 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-01T10:39:42+09:00"
+  },
   "R26BK01551596-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -9154,5 +9168,40 @@
     "reason": "AI 인증체계 개발 및 전문가 양성으로 AI 인재양성·시스템 구축 관련",
     "score": 5,
     "scored_at": "2026-05-30T10:28:17+09:00"
+  },
+  "R26BK01553033-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 탄소 배출 산정·공공 TMS 연계 AI Agent 연구로 AI 시스템 구축 관련",
+    "score": 4,
+    "scored_at": "2026-06-01T10:39:42+09:00"
+  },
+  "R26BK01553057-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "도서 제작·구매는 출판·물품 사업으로 AI 연구·시스템 구축과 무관",
+    "score": 1,
+    "scored_at": "2026-06-01T10:39:42+09:00"
+  },
+  "R26BK01553117-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "빅데이터·AI 데이터 표준화 및 플랫폼 탑재로 연구·시스템 구축에 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-01T10:39:42+09:00"
+  },
+  "R26BK01553148-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 이용 행태·시간 분석 조사로 AI 연구·컨설팅과 직접 연관",
+    "score": 5,
+    "scored_at": "2026-06-01T10:39:42+09:00"
+  },
+  "R26BK01553530-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "기업 연계 AI·데이터 아카데미 운영으로 AI 인재양성 교육과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-01T10:39:42+09:00"
   }
 }
