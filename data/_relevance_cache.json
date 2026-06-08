@@ -9393,6 +9393,13 @@
     "score": 5,
     "scored_at": "2026-06-02T10:59:23+09:00"
   },
+  "R26BK01554057-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "공항 민간투자 시설 관리계획 용역으로 AI·의료·금융 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
   "R26BK01554166-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -10149,6 +10156,20 @@
     "score": 2,
     "scored_at": "2026-06-05T10:37:54+09:00"
   },
+  "R26BK01561896-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 라이브커머스 시스템 구축 및 공공 플랫폼 지원 사업에 적합",
+    "score": 4,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01561919-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 관련이나 전자상거래·라이브커머스 중심으로 관심분야와 약하게 겹침",
+    "score": 2,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
   "R26BK01561981-000": {
     "model": "gpt-5-mini",
     "provider": "openai",
@@ -10211,6 +10232,13 @@
     "reason": "예측 알고리즘 연구로 AI·시스템 구축 역량과 부분적 일치",
     "score": 3,
     "scored_at": "2026-06-06T10:28:54+09:00"
+  },
+  "R26BK01562643-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "병원 별관 리모델링 폐기물 처리 용역으로 건설·시설 분야, 관심 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-06-08T10:40:55+09:00"
   },
   "R26BK01562648-000": {
     "model": "gpt-5-mini",
@@ -10379,5 +10407,61 @@
     "reason": "LLM 기반 AI 에이전트 구축으로 AI·데이터 분석·시스템 분야와 직접 관련",
     "score": 5,
     "scored_at": "2026-06-06T10:28:54+09:00"
+  },
+  "R26BK01564679-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "세관 데이터 AI 분석 플랫폼 고도화로 AI 시스템 구축·컨설팅에 적합",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01564683-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "대학생 대상 AI 교육 기획·운영, AI 인재양성 관련",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01564692-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 관련 행사 용역으로 AI·인재양성·컨설팅 분야와 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01564693-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "생성형 AI 챗봇·분류모델 고도화로 AI/LLM 시스템 구축에 직접 연관",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01564726-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "농경지 침수·수리모형 연구로 AI·의료·바이오 분야와 무관",
+    "score": 0,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01564822-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "공공부문 AI 도입 조사로 AI 정책·연구·컨설팅과 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01564985-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "AI 기반 챗봇 구축으로 LLM·AI 시스템 구축 역량과 직접 연관",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
+  },
+  "R26BK01565166-000": {
+    "model": "gpt-5-mini",
+    "provider": "openai",
+    "reason": "보건의료 AI 역량강화 해외연수로 AI·의료 교육·인재양성에 직접 관련",
+    "score": 5,
+    "scored_at": "2026-06-08T10:40:55+09:00"
   }
 }
